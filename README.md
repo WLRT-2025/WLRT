@@ -1,6 +1,6 @@
 # WLRT — Wave Liquidity Redistribution Theory
 
-Author: Petr Popov
+Author: Petr Popov  \
 License: CC BY 4.0
 
 ## Overview
