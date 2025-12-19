@@ -23,7 +23,7 @@ The WLRT project is organized into the following core components:
   Introduces motivation, core ideas, qualitative interpretation, and scope.
 
 Repository:  
-https://github.com/WLRT-2025/WLRT/WLRT_White_Paper
+https://github.com/WLRT-2025/WLRT/blob/main/WLRT_White_Paper/v1.0/WLRT_White_Paper_v1.0.md
 
 ### Technical Appendix
 
@@ -32,7 +32,7 @@ https://github.com/WLRT-2025/WLRT/WLRT_White_Paper
   Contains definitions, axioms, assumptions, and core equations.
 
 Repository:  
-https://github.com/WLRT-2025/WLRT/Technical_Appendix
+https://github.com/WLRT-2025/WLRT/blob/main/Technical_Appendix/v1.0/WLRT_Technical_Appendix_v1.0.md
 
 ### Future Components (planned)
 
@@ -120,9 +120,7 @@ It does not constitute financial, trading, or investment advice.
   Содержит мотивацию, основные идеи, качественную интерпретацию и область применимости.
 
 Репозиторий:  
-https://github.com/WLRT-2025/WLRT/WLRT_White_Paper
-
----
+https://github.com/WLRT-2025/WLRT/blob/main/WLRT_White_Paper/v1.0/WLRT_White_Paper_v1.0.md
 
 ### Technical Appendix
 
@@ -131,7 +129,7 @@ https://github.com/WLRT-2025/WLRT/WLRT_White_Paper
   Включает определения, аксиомы, допущения и базовые уравнения модели.
 
 Репозиторий:  
-https://github.com/WLRT-2025/WLRT/Technical_Appendix
+https://github.com/WLRT-2025/WLRT/blob/main/Technical_Appendix/v1.0/WLRT_Technical_Appendix_v1.0.md
 
 ### Будущие компоненты (планируются)
 
