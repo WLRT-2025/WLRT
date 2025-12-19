@@ -4,7 +4,7 @@ White Paper v1.0 \
   Status: Research White Paper  \
 Version: 1.0  \
 License: CC BY 4.0  \
-Date: 2025-12-16
+Date: 2025-12-19
 ## Abstract
 This white paper presents the Wave Liquidity Redistribution Theory (WLRT), a universal market model in which observed price dynamics emerge from wave-like redistribution of liquidity across price space. Financial markets are treated as structured dynamical systems governed by conservation, propagation, and dissipation of liquidity. Price is defined as a secondary observable derived from the state of the liquidity field rather than as a primary driver.
 ## 1. Motivation
@@ -21,9 +21,13 @@ The model introduces the following quantities:
 - S(P,t): external liquidity sources and sinks
 Causal structure: liquidity gradient -> liquidity flux -> liquidity waves -> observed price
 ## 4. Definition of Price
-Observed price is defined as the liquidity-weighted center of the system: P(t) = integral(P * rho(P,t) dP) / integral(rho(P,t) dP). Price reflects the instantaneous configuration of the liquidity field and does not represent discrete transactions.
+Observed price is defined as the liquidity-weighted center of the system:  \
+P(t) = integral(P * rho(P,t) dP) / integral(rho(P,t) dP).  \
+Price reflects the instantaneous configuration of the liquidity field and does not represent discrete transactions.
 ## 5. Liquidity Dynamics
-Liquidity redistribution is described by a damped wave equation: d2 rho / dt2 + gamma * d rho / dt = c^2 * d2 rho / dP2 + dS / dt. This equation captures inertia of liquidity, propagation across price levels, and dissipation due to friction and execution costs.
+Liquidity redistribution is described by a damped wave equation:  \
+d2 rho / dt2 + gamma * d rho / dt = c^2 * d2 rho / dP2 + dS / dt.  \
+This equation captures inertia of liquidity, propagation across price levels, and dissipation due to friction and execution costs.
 ## 6. Market Regimes
 Different classes of solutions correspond to common market regimes: standing waves correspond to range-bound markets, traveling waves to directional trends, critical damping to flat or inactive markets, and impulse responses to news-driven movements. Regime transitions arise from changes in boundary conditions or external inputs.
 ## 7. Conservation Properties
