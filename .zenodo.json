@@ -1,5 +1,5 @@
 {
-  "title": "Wave Liquidity Redistribution Theory (WLRT) v1.0: White Paper + Technical Appendix",
+  "title": "WLRT - Wave Liquidity Redistribution Theory v1.0.4",
   "upload_type": "report",
   "publication_date": "2025-12-19",
   "description": "This release includes WLRT White Paper v1.0 and Technical Appendix v1.0. The White Paper introduces the theoretical framework, while the Technical Appendix provides detailed formulas, derivations, and technical proofs. Together, they constitute the complete documentation for version 1.0 of WLRT.",
@@ -17,7 +17,7 @@
   "license": "CC-BY-4.0",
   "access_right": "open",
   "language": "eng",
-  "version": "1.0",
+  "version": "1.0.4",
   "notes": "This release contains both the White Paper and the Technical Appendix for WLRT v1.0. Intended for theoretical and methodological purposes.",
   "related_identifiers": [
     {
