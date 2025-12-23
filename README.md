@@ -71,7 +71,10 @@ completed.
 
 ---
 
-## License
+## License and Disclaimer
 
 This work is licensed under the Creative Commons Attribution 4.0 International
-License (CC BY 4.0).Он не представляет собой финансовую, торговую или инвестиционную рекомендацию.
+License (CC BY 4.0).
+
+This repository and its contents are provided for research and informational
+purposes only and do not constitute financial, trading, or investment advice.
