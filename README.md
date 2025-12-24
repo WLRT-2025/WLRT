@@ -5,7 +5,23 @@ Affiliation: Independent Researcher
 License: CC BY 4.0  
 
 ---
+## Project State and Versioning
 
+The Wave Liquidity Redistribution Theory (WLRT) project follows a strict versioning
+and scope discipline.
+
+The canonical project state, accepted strategic decisions, version structure,
+and collaboration rules are defined in:
+
+**/META/WLRT_PROJECT_STATE.md**
+
+This document is the single source of truth for:
+- current publication status,
+- accepted version boundaries,
+- consolidation strategy for WLRT v1.x,
+- future development roadmap.
+
+Any work on WLRT should be consistent with the project state defined there.
 ## Overview
 
 Wave Liquidity Redistribution Theory (WLRT) is a theoretical framework for analyzing
