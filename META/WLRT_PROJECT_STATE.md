@@ -5,7 +5,16 @@
 **ORCID:** 0009-0001-6666-3558  
 
 ---
+## Language and Typography Rules (RU)
 
+- In all Russian-language WLRT documents, the letter "ё" is never used.
+- The letter "е" is used in all cases instead.
+- This rule applies to:
+  - PDFs
+  - LaTeX sources
+  - GitHub files
+  - Abstracts, appendices, and metadata
+- The rule is mandatory and not subject to stylistic preference.
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)  
