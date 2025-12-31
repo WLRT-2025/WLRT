@@ -53,3 +53,13 @@
 - Design logs
 - Archived chats
 - Technical specifications
+## I. All Branches Register
+
+The WaveCounter project currently consists of a large number of factual
+research, empirical, and meta branches accumulated over multiple sessions.
+
+A complete conservative register of all branches (≈57) is maintained
+separately to prevent loss of higher-order theoretical context.
+
+See:
+- WaveCounter_All_Branches_Register.docx (canonical factual register)
