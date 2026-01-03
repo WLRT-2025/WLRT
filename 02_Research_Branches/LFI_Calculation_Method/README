@@ -1,0 +1,69 @@
+# LFI Calculation Methodology
+
+**Branch ID:** 25  
+**Status:** active  
+**Level:** Research  
+**Related Core:** WLRT v3.0  
+**Invariant:** LFI (Local Fragility Index)
+
+---
+
+## Purpose
+
+This branch defines a **formal, reproducible methodology** for computing the
+**Local Fragility Index (LFI)** within the Wave Liquidity Redistribution Theory (WLRT).
+
+The goal is not prediction of price direction, but **quantification of local
+instability of the liquidity field** preceding phase transitions.
+
+---
+
+## Scope
+
+This branch covers:
+- conceptual definition of LFI;
+- observable inputs used for its computation;
+- aggregation logic and temporal behavior;
+- interpretation of LFI values;
+- explicit limitations and misuse boundaries.
+
+This branch does **not** define:
+- trading strategies;
+- entry/exit rules;
+- profit optimization;
+- forecasting guarantees.
+
+---
+
+## Structure
+
+- `LFI_Definition.md` — conceptual definition and meaning of LFI  
+- `LFI_Inputs.md` — observable inputs and data requirements  
+- `LFI_Computation.md` — step-by-step computation logic  
+- `LFI_Interpretation.md` — interpretation of LFI dynamics  
+- `Limitations.md` — known limits and failure modes  
+- `Examples/` — illustrative examples (optional)
+
+---
+
+## Canonical Rules
+
+- The name **LFI** is fixed and invariant.
+- LFI measures **fragility**, not direction.
+- Any heuristic or empirical assumption must be explicitly marked.
+- Absence of signal ≠ stability guarantee.
+
+---
+
+## Relation to Other Branches
+
+- Core theory: `00_WLRT_Core/`
+- Phase logic: Branch #26 (Phase Order Constraints)
+- Empirical usage: Branches #28, #49, #53
+
+---
+
+## Versioning
+
+- v0.9 — initial canonical draft
+- v1.0 — formalized and externally shareable version
