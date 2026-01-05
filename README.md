@@ -1,4 +1,4 @@
-# Wave Liquidity Redistribution Theory (WLRT)
+# *Wave Liquidity Redistribution Theory (WLRT).*
 
 Author: Petr Popov  
 Affiliation: Independent Researcher  
@@ -14,8 +14,7 @@ and scope discipline.
 Popov, P. (2026).  
 *Wave Liquidity Redistribution Theory (WLRT).*  
 Zenodo. https://doi.org/10.5281/zenodo.18149029
-The canonical project state, accepted strategic decisions, version structure,
-and collaboration rules are defined in:
+
 ## Canonical Papers (WLRT v1.x)
 
 - 📄 [WLRT v1.x (English, consolidated)](./WLRT_v1.x_consolidated.pdf)
