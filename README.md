@@ -9,7 +9,11 @@ License: CC BY 4.0
 
 The Wave Liquidity Redistribution Theory (WLRT) project follows a strict versioning
 and scope discipline.
+## Canonical reference
 
+Popov, P. (2026).  
+*Wave Liquidity Redistribution Theory (WLRT).*  
+Zenodo. https://doi.org/10.5281/zenodo.18149029
 The canonical project state, accepted strategic decisions, version structure,
 and collaboration rules are defined in:
 ## Canonical Papers (WLRT v1.x)
@@ -25,10 +29,6 @@ This document is the single source of truth for:
 - future development roadmap.
 ## Canonical reference
 
-Popov, P. (2026).  
-*Wave Liquidity Redistribution Theory (WLRT).*  
-Zenodo. https://doi.org/10.5281/zenodo.18149029
-Any work on WLRT should be consistent with the project state defined there.
 ## Overview
 
 Wave Liquidity Redistribution Theory (WLRT) is a theoretical framework for analyzing
