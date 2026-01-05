@@ -23,7 +23,11 @@ This document is the single source of truth for:
 - accepted version boundaries,
 - consolidation strategy for WLRT v1.x,
 - future development roadmap.
+## Canonical reference
 
+Popov, P. (2026).  
+*Wave Liquidity Redistribution Theory (WLRT).*  
+Zenodo. https://doi.org/10.5281/zenodo.18149029
 Any work on WLRT should be consistent with the project state defined there.
 ## Overview
 
