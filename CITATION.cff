@@ -1,5 +1,30 @@
 cff-version: 1.2.0
+message: "If you use Wave Liquidity Redistribution Theory (WLRT) in your research, please cite it as below."
+
 title: "Wave Liquidity Redistribution Theory (WLRT)"
+
 authors:
-  - name: "Petr Popov"
-version: 1.0
+  - family-names: Popov
+    given-names: Petr
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0001-6666-3558"
+
+version: "1.2"
+
+doi: "10.5281/zenodo.18149029"
+
+date-released: 2026-01-05
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/WLRT-2025/WLRT"
+
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: Popov
+      given-names: Petr
+  year: 2026
+  title: "Wave Liquidity Redistribution Theory (WLRT)"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18149029"
