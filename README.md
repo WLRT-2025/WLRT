@@ -9,6 +9,20 @@ License: CC BY 4.0
 
 The Wave Liquidity Redistribution Theory (WLRT) project follows a strict versioning
 and scope discipline.
+## Version Structure and Canonical Status
+
+The WLRT framework follows a hierarchical and complementary version structure.
+
+- **WLRT v3.0** is the **current canonical version**, defining the ontological and logical core of the theory.
+- **WLRT v2.x** represents the operational and empirical development layer.
+- **WLRT v1.x** provides the phenomenological foundation and initial conceptual intuition.
+
+Earlier versions are not deprecated or superseded; they remain valid as
+observational, empirical, and heuristic layers.
+Later versions organize, constrain, and formalize these roles without eliminating them.
+
+A detailed interpretation of the version hierarchy is provided in
+[`VERSION_HISTORY.md`](VERSION_HISTORY.md).
 ## Canonical reference
 
 Popov, P. (2026).  
