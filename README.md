@@ -5,6 +5,10 @@ Affiliation: Independent Researcher
 License: CC BY 4.0  
 
 ---
+## Core status (canonical)
+WLRT Core is **canonically frozen** as of **2026-01-20**, including **Appendix E: Emergency Economics Module (EEM)**.  
+The frozen Core defines the invariant theoretical structure of WLRT.  
+See: `00_WLRT_Core/CANONICAL_FREEZE.md` for the formal freeze declaration and scope.
 ## Project State and Versioning
 
 The Wave Liquidity Redistribution Theory (WLRT) project follows a strict versioning
