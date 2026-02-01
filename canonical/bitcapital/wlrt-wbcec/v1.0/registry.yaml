@@ -1,0 +1,90 @@
+canonical_document:
+  id: wlrt-wbcec-v1.0
+
+  title:
+    en: "Wave Behavior of Capital and Environmental Control"
+    ru: "Волновое поведение капитала и управление средой"
+
+  subtitle:
+    en: "A Practical WLRT Illustration and Its Distinction from Elliott Wave Theory"
+    ru: "Практическая иллюстрация WLRT и её отличие от Волновой теории Эллиота"
+
+  author:
+    name: "Petr Popov"
+    role: "Author and framework originator"
+
+  framework:
+    name: "Wave Liquidity Redistribution Theory"
+    abbreviation: "WLRT"
+
+  implementation_reference:
+    name: "BitCapital"
+    role: "Applied illustration layer"
+    disclosure_level: "Non-operational, illustrative only"
+
+  versioning:
+    version: "1.0"
+    status: "Canonical"
+    freeze_policy: "Canonical Freeze"
+    change_policy:
+      within_version: "No semantic or textual changes permitted"
+      new_versions: "Any modification requires version increment (v1.1+)"
+
+  languages:
+    primary: "EN"
+    canonical_projections:
+      - "RU"
+
+  document_classification:
+    type: "Research-grade explanatory document"
+    nature:
+      - "Conceptual"
+      - "Architectural"
+    domain:
+      - "Capital behavior"
+      - "Market environments"
+      - "Risk structure"
+    methodology:
+      - "Non-predictive"
+      - "Non-signal-based"
+      - "Environment-centric"
+
+  scope_and_limitations:
+    provides_investment_advice: false
+    constitutes_offer_or_solicitation: false
+    discloses_trading_strategies: false
+    discloses_execution_protocols: false
+
+  intended_use:
+    - "Conceptual explanation of WLRT-based capital management"
+    - "Structural comparison with Elliott Wave Theory"
+
+  relationship_to_wlrt_canon:
+    derived_from_core: true
+    exposes_core_formulas: false
+    compatible_with_versions:
+      - "WLRT v3.x"
+      - "WLRT v4.x"
+
+  relationship_to_bitcapital:
+    role: "Illustrative implementation reference"
+    dependency: "None"
+    validity_independent_of_product_configuration: true
+
+  citation:
+    en: "Popov, P. 'Wave Behavior of Capital and Environmental Control.' WLRT / BitCapital, Canonical v1.0."
+    ru: "Попов П. «Волновое поведение капитала и управление средой». WLRT / BitCapital, Каноническая версия v1.0."
+
+  canonical_dates:
+    freeze_date: "2026-02-01"
+    timezone: "UTC"
+
+  reuse_policy:
+    internal_use: "Unrestricted"
+    external_use: "Permitted with attribution"
+    modification: "Prohibited within v1.0"
+
+  registry_notes:
+    - "Primary canonical language is English"
+    - "Russian version is a symmetrical canonical projection"
+    - "Document serves as a stable reference point for applied WLRT explanations"
