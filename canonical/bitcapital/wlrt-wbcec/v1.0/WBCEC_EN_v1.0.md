@@ -18,7 +18,7 @@ but **structural risk control and capital behavior management**.
 ---
 
 ## 1. Illustration of Capital Trajectories
-
+![Figure 1 — Capital trajectories under different management approaches](figure1.png)
 **Figure 1.**  
 *Stylized illustration of capital trajectories under different capital management approaches.*
 
