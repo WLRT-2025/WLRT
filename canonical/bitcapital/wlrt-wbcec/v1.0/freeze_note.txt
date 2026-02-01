@@ -1,0 +1,53 @@
+WBCEC — Canonical Freeze Note
+
+Document:
+Wave Behavior of Capital and Environmental Control (WBCEC)
+
+Author:
+Petr Popov
+
+Framework:
+Wave Liquidity Redistribution Theory (WLRT)
+
+Version:
+v1.0
+
+Status:
+Canonical Freeze
+
+Freeze Date:
+2026-02-01 (UTC)
+
+Scope of Freeze:
+This freeze applies to:
+- WBCEC_EN_v1.0.md
+- WBCEC_RU_v1.0.md
+- COVER_EN_RU_v1.0.md
+- registry.yaml
+- cpl_entry.yaml
+- figure1.png (to be added before final freeze commit)
+
+Purpose:
+This document serves as a research-grade explanatory object illustrating WLRT-based
+capital behavior and its distinction from Elliott Wave Theory.
+
+It is intended for:
+- partner communication,
+- investor-level explanation,
+- applied WLRT illustration.
+
+Restrictions:
+- No semantic, structural, or textual changes are permitted within v1.0.
+- No modification of meaning, scope, or intent is allowed.
+- No operational, trading, or execution details may be added.
+
+Versioning Policy:
+Any change, extension, clarification, or correction requires a new version (v1.1+).
+
+Notes:
+This document does not expose WLRT Core formulas, protocols, or proprietary logic.
+It remains valid independently of specific BitCapital configurations.
+
+Canonical Integrity:
+This freeze establishes WBCEC v1.0 as a stable reference point within the WLRT
+Canonical Publication Ledger (CPL).
