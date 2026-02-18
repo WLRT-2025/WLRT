@@ -94,6 +94,9 @@ version**.
 
 - `/whitepaper` — Main WLRT manuscripts (PDF)
 - `/technical_appendix` — Technical appendices and formal derivations
+- Appendix M — Micro-Liquidity Realization Layer (MLRL) v0.1 (Draft-Validated)  
+  Located at: Technical_Appendix/Appendix_M_Micro_Liquidity_Realization_Layer_v0.1.md
+- 
 - `/figures` — Figures and diagrams used across versions
 
 Each folder may contain its own README describing version-specific content.
