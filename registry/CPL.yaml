@@ -1,0 +1,20 @@
+# WLRT Canonical Publication Ledger (CPL)
+
+cpl:
+  - id: WLRT-REG-0001
+    title: "Appendix M — Micro-Liquidity Realization Layer (MLRL)"
+    version: "v0.1"
+    status: "Draft-Validated (empirical, single dataset)"
+    layer: "WLRT Core (U_micro) — derivative appendix"
+    repository_path: "Technical_Appendix/Appendix_M_Micro_Liquidity_Realization_Layer_v0.1.md"
+    author: "Petr Popov"
+    date_created: "2026-02-18"
+    dataset: "SOLUSDT aggTrades 2020-09 (Binance)"
+    confirmed:
+      - "Positive correlation: intensity I = V/ΔP → expansion R(H)"
+      - "Nonlinearity (threshold effect)"
+      - "No persistent directional bias"
+    constraints:
+      - "Not a trading signal"
+      - "Does not predict direction"
+      - "Does not redefine LFI"
