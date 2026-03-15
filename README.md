@@ -27,11 +27,13 @@ Later versions organize, constrain, and formalize these roles without eliminatin
 
 A detailed interpretation of the version hierarchy is provided in
 [`VERSION_HISTORY.md`](VERSION_HISTORY.md).
+
+
 ## Canonical reference
 
-Popov, P. (2026).  
-*Wave Liquidity Redistribution Theory (WLRT).*  
-Zenodo. https://doi.org/10.5281/zenodo.18149029
+Popov, P. (2026).
+Wave Liquidity Redistribution Theory (WLRT) v3.0.
+Zenodo. https://doi.org/10.5281/zenodo.19026189
 
 ## Canonical Papers (WLRT v1.x)
 
@@ -44,7 +46,7 @@ This document is the single source of truth for:
 - accepted version boundaries,
 - consolidation strategy for WLRT v1.x,
 - future development roadmap.
-## Canonical reference
+
 
 ## Overview
 
@@ -105,9 +107,11 @@ Each folder may contain its own README describing version-specific content.
 
 ## Citation
 
-Please cite the initial release version until further notice:
+Please cite the canonical monograph:
 
-> Popov, P. (2025). *Wave Liquidity Redistribution Theory (WLRT), v1.1*.
+Popov, P. (2026).
+Wave Liquidity Redistribution Theory (WLRT) v3.0.
+Zenodo. https://doi.org/10.5281/zenodo.19026189
 
 Updated citation information will be provided once the publication process is
 completed.
