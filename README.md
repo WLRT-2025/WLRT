@@ -35,6 +35,8 @@ Popov, P. (2026).
 Wave Liquidity Redistribution Theory (WLRT) v3.0.
 Zenodo. https://doi.org/10.5281/zenodo.19026189
 
+This monograph is the canonical citation source for WLRT v3.0.
+
 ## Canonical Papers (WLRT v1.x)
 
 - 📄 [WLRT v1.x (English, consolidated)](./WLRT_v1.x_consolidated.pdf)
