@@ -118,3 +118,20 @@ However:
 
 *Wave Liquidity Redistribution Theory (WLRT)*  
 *Version history maintained for clarity and academic integrity.*
+---
+
+## Publication Record
+
+**WLRT v3.0 — Canonical Monograph Release**
+
+Date: 2026-03-15
+
+The canonical monograph defining WLRT v3.0 was published and archived on Zenodo.
+
+Citation:
+
+Popov, P. (2026).  
+*Wave Liquidity Redistribution Theory (WLRT) v3.0.*  
+Zenodo. https://doi.org/10.5281/zenodo.19026189
+
+This publication serves as the archival academic reference for WLRT v3.0.
