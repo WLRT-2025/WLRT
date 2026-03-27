@@ -41,7 +41,8 @@ This monograph is the canonical citation source for WLRT v3.0.
 
 Popov, P. (2026). *WLRT: Scope, Capabilities, and Interpretation*  
 DOI: https://doi.org/10.5281/zenodo.19235562
-Latest publication:
+
+## Latest publication:
 
 Foundations of WLRT: Laws of Liquidity, Fragility, and Stability  
 https://doi.org/10.5281/zenodo.19246773
