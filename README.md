@@ -47,7 +47,7 @@ DOI: https://doi.org/10.5281/zenodo.19235562
 Foundations of WLRT: Laws of Liquidity, Fragility, and Stability  
 https://doi.org/10.5281/zenodo.19246773
 
-Fragility Metrics in WLRT (LFI, LSM, FFI)
+Fragility Metrics in WLRT (LFI, LSM, FFI), 
 DOI: https://doi.org/10.5281/zenodo.19313950
 
 ## Canonical Papers (WLRT v1.x)
