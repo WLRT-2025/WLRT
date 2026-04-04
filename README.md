@@ -50,6 +50,14 @@ https://doi.org/10.5281/zenodo.19246773
 Fragility Metrics in WLRT (LFI, LSM, FFI), 
 DOI: https://doi.org/10.5281/zenodo.19313950
 
+## WLRT Fragility Series
+
+1. **Fragility Metrics in Wave Liquidity Redistribution Theory (WLRT)**  
+   DOI: https://doi.org/10.5281/zenodo.19313950
+
+2. **Fragility Geometry in Wave Liquidity Redistribution Theory (WLRT)**  
+   DOI: https://doi.org/10.5281/zenodo.19416731
+
 ## Canonical Papers (WLRT v1.x)
 
 - 📄 [WLRT v1.x (English, consolidated)](./WLRT_v1.x_consolidated.pdf)
