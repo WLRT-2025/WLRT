@@ -61,6 +61,9 @@ DOI: https://doi.org/10.5281/zenodo.19313950
 3. **Fragility Topology in WLRT**
    DOI: https://doi.org/10.5281/zenodo.19441698
 
+4. **Inverse Problem**
+   DOI: https://doi.org/10.5281/zenodo.19454228  
+
 ## WLRT Core Framework
 
 0. Liquidity as a State Variable  
@@ -73,7 +76,10 @@ https://doi.org/10.5281/zenodo.19313950
 https://doi.org/10.5281/zenodo.19416731  
 
 3. Fragility Topology  
-https://doi.org/10.5281/zenodo.19441698  
+https://doi.org/10.5281/zenodo.19441698
+
+4. Inverse Problem  
+https://doi.org/10.5281/zenodo.19454228  
 
 ## Canonical Papers (WLRT v1.x)
 
