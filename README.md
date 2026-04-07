@@ -61,6 +61,20 @@ DOI: https://doi.org/10.5281/zenodo.19313950
 3. **Fragility Topology in WLRT**
    DOI: https://doi.org/10.5281/zenodo.19441698
 
+   ## WLRT Core Framework
+
+0. Liquidity as a State Variable  
+https://doi.org/10.5281/zenodo.19452432  
+
+1. Fragility Metrics  
+https://doi.org/10.5281/zenodo.19313950  
+
+2. Fragility Geometry  
+https://doi.org/10.5281/zenodo.19416731  
+
+3. Fragility Topology  
+https://doi.org/10.5281/zenodo.19441698  
+
 ## Canonical Papers (WLRT v1.x)
 
 - 📄 [WLRT v1.x (English, consolidated)](./WLRT_v1.x_consolidated.pdf)
