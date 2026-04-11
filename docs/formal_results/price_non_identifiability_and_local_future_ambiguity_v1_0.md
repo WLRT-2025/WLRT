@@ -171,3 +171,43 @@ Then
 Consider a localized perturbation \(\delta L\) near \(p=-1\). For sufficiently small perturbations, admissibility may be preserved for \(L_1\) but violated for \(L_2\), demonstrating that admissible future sets differ despite identical price.
 
 ---
+
+## 3. Remarks
+
+### Remark 1. Structural Nature of the Result
+
+The results presented in this document are purely structural.  
+They do not rely on probabilistic assumptions, stochastic modeling, or specific market microstructure.
+
+The statements follow solely from the properties of observable aggregation and admissible state space structure.
+
+---
+
+### Remark 2. Scope Limitation
+
+The theorems establish limitations of price-based inference.
+
+They do not provide:
+- predictive models,
+- trading strategies,
+- or reconstruction procedures.
+
+---
+
+### Remark 3. Role within WLRT
+
+Within the WLRT framework, these results define a minimal external layer.
+
+They formalize the limits of observable-based reasoning without exposing internal structural mechanisms of the theory.
+
+---
+
+### Remark 4. Interpretation
+
+The results imply that observable price alone is insufficient to determine:
+- the underlying liquidity state,
+- or the set of admissible local structural transitions.
+
+This establishes a fundamental ambiguity in observable-driven interpretation of system dynamics.
+
+---
