@@ -1,7 +1,21 @@
 # Appendix Z  
-## Execution Semantics Layer (M8)
+## M8 Execution Engine (External Canonical Layer)
 
 ---
+
+### Relation to WLRT
+
+This document is NOT a part of WLRT v3.0.
+
+It is a standalone execution layer built on top of the WaveCounter A.D.E configuration system.
+
+It is fully compatible with WLRT but does not modify or extend the WLRT core theory.
+
+---
+
+### Position
+
+WLRT v3.0 → A.D.E → M8 Execution Layer
 
 ### Status
 
