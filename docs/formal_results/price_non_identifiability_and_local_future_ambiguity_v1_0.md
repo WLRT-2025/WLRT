@@ -87,3 +87,87 @@ Hence \(\Phi\) is not injective.
 ### Corollary 1. Price Equality Does Not Imply State Equality
 
 There exist distinct liquidity states that generate the same observable price.
+
+---
+
+## 2. Non-Uniqueness of Local Admissible Futures
+
+### Definition 3. Structural Transition
+A structural transition is a change of liquidity state
+\[
+L_1 \to L_2
+\]
+with \(L_1 \neq L_2\).
+
+### Definition 4. Admissible Local Transition
+A local admissible transition from a liquidity state \(L\) is a perturbation
+\[
+L \to L + \delta L,
+\]
+such that \(L + \delta L \in \mathcal{L}\).
+
+### Definition 5. Local Admissible Future Set
+The local admissible future set at state \(L\) is defined as
+\[
+\mathcal{F}(L) = \{L + \delta L \;|\; \delta L \text{ admissible}\}.
+\]
+
+### Theorem 2. Non-Uniqueness of Local Admissible Futures
+
+There exist liquidity states \(L_1 \neq L_2\) such that
+\[
+\Phi[L_1] = \Phi[L_2],
+\]
+but
+\[
+\mathcal{F}(L_1) \neq \mathcal{F}(L_2).
+\]
+
+### Proof
+
+By Theorem 1, there exist \(L_1 \neq L_2\) such that
+\[
+\Phi[L_1] = \Phi[L_2].
+\]
+
+Since equality of \(\Phi\) does not impose pointwise equality of liquidity distributions, there exists a subset of \(I\) on which \(L_1\) and \(L_2\) differ.
+
+Consider a perturbation \(\delta L\) supported on a region where admissibility is preserved for one state but violated for the other (e.g., due to non-negativity constraints).
+
+Then there exists \(\delta L\) such that
+\[
+L_1 + \delta L \in \mathcal{L}, \quad \text{but} \quad L_2 + \delta L \notin \mathcal{L}.
+\]
+
+Therefore,
+\[
+\delta L \in \mathcal{F}(L_1), \quad \delta L \notin \mathcal{F}(L_2),
+\]
+and hence
+\[
+\mathcal{F}(L_1) \neq \mathcal{F}(L_2).
+\]
+
+### Corollary 2. Indeterminacy of Local Structural Evolution
+
+Observable price does not uniquely determine the admissible local evolution of the system.
+
+### Corollary 3. Observable Ambiguity of Response
+
+Two states with identical price may admit structurally incompatible responses to the same perturbation.
+
+### Example
+
+Let \(I = [-1,1]\), \(w(p)=1\), and define
+\[
+L_1(p)=1, \quad L_2(p)=1+\varepsilon p, \quad 0<\varepsilon<1.
+\]
+
+Then
+\[
+\Phi[L_1] = \Phi[L_2].
+\]
+
+Consider a localized perturbation \(\delta L\) near \(p=-1\). For sufficiently small perturbations, admissibility may be preserved for \(L_1\) but violated for \(L_2\), demonstrating that admissible future sets differ despite identical price.
+
+---
