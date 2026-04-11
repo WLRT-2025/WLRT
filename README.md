@@ -4,6 +4,11 @@ Author: Petr Popov
 Affiliation: Independent Researcher  
 License: CC BY 4.0  
 
+## Formal Results (External Layer)
+
+- Price Non-Identifiability and Local Future Ambiguity (v1.0)  
+  docs/formal_results/price_non_identifiability_and_local_future_ambiguity_v1_0.md
+
 ---
 ## Core status (canonical)
 WLRT Core is **canonically frozen** as of **2026-01-20**, including **Appendix E: Emergency Economics Module (EEM)**.  
