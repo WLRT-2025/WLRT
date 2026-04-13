@@ -4,6 +4,18 @@ Author: Petr Popov
 Affiliation: Independent Researcher  
 License: CC BY 4.0  
 
+
+## Wave Liquidity Redistribution Theory (WLRT)
+
+Financial markets are typically described in terms of price.  
+WLRT starts from a different assumption:
+
+**price is not a fundamental variable.**
+
+It is an observable manifestation of a deeper structure.
+
+👉 Read the canonical entry:
+[WLRT Canonical Entry Page](./docs/WLRT_Canonical_Entry_EN.md)
 ## Formal Results (External Layer)
 
 - [Price Non-Identifiability and Local Future Ambiguity (v1.0)](./docs/formal_results/price_non_identifiability_and_local_future_ambiguity_v1_0.md)
