@@ -145,6 +145,11 @@ The theory provides a unified structural description of:
 - transitions  
 
 ---
+## Citable Results (WLRT)
+
+A minimal set of formal, citable statements:
+
+👉 docs/citable_results/WLRT_Citable_Results_v1.0.md
 
 ## License and Disclaimer
 
