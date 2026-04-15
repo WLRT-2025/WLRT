@@ -149,7 +149,7 @@ The theory provides a unified structural description of:
 
 A minimal set of formal, citable statements:
 
-👉 docs/citable_results/WLRT_Citable_Results_v1.0.md
+👉 [WLRT Citable Results v1.0](docs/citable_results/WLRT_Citable_Results_v1.0.md)
 
 ## License and Disclaimer
 
