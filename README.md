@@ -26,6 +26,9 @@ https://doi.org/10.5281/zenodo.19854961
 Second Law — Cyclicity of Liquidity Redistribution:
 https://doi.org/10.5281/zenodo.19860828
 
+Third Law — Scale Invariance of Structural States and Transitions:
+https://doi.org/10.5281/zenodo.19861942
+
 ## A Structural Framework for Liquidity-Driven Systems
 
 Financial markets are typically described in terms of price.  
