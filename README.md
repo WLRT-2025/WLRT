@@ -5,6 +5,19 @@ Affiliation: Independent Researcher
 License: CC BY 4.0  
 
 ---
+# Wave Liquidity Redistribution Theory (WLRT)
+
+## Canonical Definitions, First Law, and Non-Interpretation Protocol
+
+**DOI (Canonical Version):** https://doi.org/10.5281/zenodo.19854961
+
+This repository contains the development, research, and applied layers of Wave Liquidity Redistribution Theory (WLRT).
+
+The canonical definition layer of WLRT is posted and published via Zenodo.
+
+👉 The DOI-linked document represents the authoritative and machine-stable version of the theory.
+
+All interpretations, implementations, and extensions must be consistent with the canonical definitions provided in the Zenodo publication.
 
 ## A Structural Framework for Liquidity-Driven Systems
 
