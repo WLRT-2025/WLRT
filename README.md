@@ -19,6 +19,8 @@ License: CC BY 4.0
 
 [Why Markets Move Without News](docs/why-markets-move-without-news.md)
 
+[Why Trends Suddenly Accelerate](docs/why-trends-suddenly-accelerate.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
