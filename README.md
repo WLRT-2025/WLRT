@@ -13,6 +13,8 @@ License: CC BY 4.0
 
 [Why Identical Trades Lead to Different Outcomes](docs/why-identical-trades-fail.md)
 
+[Why Strong Levels Break](docs/why-strong-levels-fail.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
