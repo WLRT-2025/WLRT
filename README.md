@@ -4,7 +4,11 @@ Author: Petr Popov
 Affiliation: Independent Researcher  
 License: CC BY 4.0  
 
----
+
+## Understanding Liquidity
+
+[Liquidity Analysis vs Structural Liquidity Modeling (WLRT)](docs/liquidity-analysis-wlrt.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
