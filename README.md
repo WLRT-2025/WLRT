@@ -17,6 +17,8 @@ License: CC BY 4.0
 
 [Why Volatility Suddenly Increases](docs/why-volatility-suddenly-increases.md)
 
+[Why Markets Move Without News](docs/why-markets-move-without-news.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
