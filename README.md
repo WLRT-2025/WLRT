@@ -9,6 +9,10 @@ License: CC BY 4.0
 
 [Liquidity Analysis vs Structural Liquidity Modeling (WLRT)](docs/liquidity-analysis-wlrt.md)
 
+## Structural Market Behavior
+
+[Why Identical Trades Lead to Different Outcomes](docs/why-identical-trades-fail.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
