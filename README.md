@@ -21,6 +21,8 @@ License: CC BY 4.0
 
 [Why Trends Suddenly Accelerate](docs/why-trends-suddenly-accelerate.md)
 
+[Why Markets Become Unpredictable](docs/why-markets-become-unpredictable.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
