@@ -23,6 +23,8 @@ License: CC BY 4.0
 
 [Why Markets Become Unpredictable](docs/why-markets-become-unpredictable.md)
 
+[Why Stability Suddenly Disappears](docs/why-stability-suddenly-disappears.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
