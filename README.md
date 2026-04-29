@@ -15,6 +15,8 @@ License: CC BY 4.0
 
 [Why Strong Levels Break](docs/why-strong-levels-fail.md)
 
+[Why Volatility Suddenly Increases](docs/why-volatility-suddenly-increases.md)
+
 # Wave Liquidity Redistribution Theory (WLRT)
 
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
