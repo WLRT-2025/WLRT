@@ -1,3 +1,6 @@
+## Short Definition
+
+Liquidity is the structural capacity of a system to absorb and redistribute transactional flows without generating instability.
 # Liquidity — WLRT Definition
 
 In the Wave Liquidity Redistribution Theory (WLRT), liquidity is not defined as the ability to convert assets into cash.
@@ -14,3 +17,4 @@ In this framework:
 Thus, liquidity is not a measure of tradability, but a fundamental parameter governing system behavior.
 
 Wave Liquidity Redistribution Theory (WLRT)
+
