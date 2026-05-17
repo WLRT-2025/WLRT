@@ -107,6 +107,25 @@ https://doi.org/10.5281/zenodo.19026189
 
 ## Key Publications
 
+### Explanatory and Conceptual Papers
+
+#### Beyond Price: Liquidity, Fragility, and the Structural Analysis of Markets and Economic Environments (EN)
+
+Conceptual explanatory paper introducing the liquidity-centered interpretation of markets and economic environments within Wave Liquidity Redistribution Theory (WLRT).
+
+DOI:
+https://doi.org/10.5281/zenodo.20253724
+
+SSRN:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6780483
+
+
+#### За пределами цены: ликвидность, хрупкость и структурный анализ рынков и экономических сред (RU)
+
+Русская версия explanatory-статьи по ликвидностно-центричному подходу WLRT.
+
+DOI:
+https://doi.org/10.5281/zenodo.20255296
 ### Foundations
 
 - Foundations of WLRT: Laws of Liquidity, Fragility, and Stability  
@@ -179,6 +198,8 @@ This document defines:
 Wave Liquidity Redistribution Theory (WLRT) is a framework for analyzing financial systems through liquidity dynamics in price space.
 
 It treats liquidity as the primary state variable and price as its observable projection.
+
+Recent explanatory publications extend WLRT toward liquidity-centered analysis of fragility, institutional stability, and partially observable economic environments.
 
 The theory provides a unified structural description of:
 
