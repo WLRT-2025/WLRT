@@ -158,7 +158,6 @@ https://doi.org/10.5281/zenodo.20255296
    https://doi.org/10.5281/zenodo.19452432
    
 0a. Toward a Field-Theoretic Definition of Market Liquidity
-
     https://doi.org/10.5281/zenodo.20834420
 
 2. Fragility Metrics  
