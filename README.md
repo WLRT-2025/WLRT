@@ -155,12 +155,15 @@ https://doi.org/10.5281/zenodo.20255296
 ## WLRT Core Framework
 
 0. Liquidity as a State Variable  
-   https://doi.org/10.5281/zenodo.19452432  
+   https://doi.org/10.5281/zenodo.19452432
+   
+0a. Toward a Field-Theoretic Definition of Market Liquidity
+    https://doi.org/10.5281/zenodo.20834420
 
-1. Fragility Metrics  
-2. Fragility Geometry  
-3. Fragility Topology  
-4. Inverse Problem  
+2. Fragility Metrics  
+3. Fragility Geometry  
+4. Fragility Topology  
+5. Inverse Problem  
 
 ---
 
