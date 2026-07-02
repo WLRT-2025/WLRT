@@ -218,6 +218,25 @@ A minimal set of formal, citable statements:
 
 👉 [WLRT Citable Results v1.0](docs/citable_results/WLRT_Citable_Results_v1.0.md)
 
+
+## Research Notes
+
+### Russia 2026: Systemic Fragility
+
+- 🇷🇺 Initial hypothesis (27 Dec 2025)
+  - docs/research-notes/russia-2026/russia-boundary-scenarios-2025-12-27-ru.md
+
+- 🇬🇧 Initial hypothesis (27 Dec 2025)
+  - docs/research-notes/russia-2026/russia-boundary-scenarios-2025-12-27-en.md
+
+- 🇷🇺 Six-month assessment (22 Jun 2026)
+  - docs/research-notes/russia-2026/russia-boundary-scenarios-2026-06-22-ru.md
+
+- 🇬🇧 Six-month assessment (22 Jun 2026)
+  - docs/research-notes/russia-2026/russia-boundary-scenarios-2026-06-22-en.md
+ 
+    These research notes illustrate the application of Wave Liquidity Redistribution Theory (WLRT) to systemic economic analysis. They are analytical case studies rather than forecasting models or political assessments.
+
 ## License and Disclaimer
 
 This work is licensed under CC BY 4.0.
