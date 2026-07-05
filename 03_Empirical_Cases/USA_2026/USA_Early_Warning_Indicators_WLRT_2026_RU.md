@@ -279,8 +279,20 @@ Wave Liquidity Redistribution Theory (WLRT) отвечает на другой �
 
 ---
 
+---
+
 ## Related Research
 
-- USA Systemic Crisis Diagnostics — WLRT Analysis, 2026
-- Russia 2026 Case Study
-- WLRT v5.0 Research Program
+### Empirical Cases
+
+- [USA Systemic Crisis Diagnostics — WLRT Analysis, 2026](USA_Systemic_Crisis_Diagnostics_WLRT_2026_RU.md)
+
+- [Russia 2026 Case Study](../Russia_2026/)
+
+### Research Branches
+
+- [WLRT v5.0 — Generalized Redistribution Dynamics](../../02_Research_Branches/WLRT_v5/)
+
+### Core Theory
+
+- [WLRT Repository](../../README.md)
