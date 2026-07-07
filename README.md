@@ -27,6 +27,23 @@ License: CC BY 4.0
 
 # Wave Liquidity Redistribution Theory (WLRT)
 
+## WLRT v5.0
+
+WLRT v5.0 is the current research stage of Wave Liquidity Redistribution Theory (WLRT).
+
+It introduces a new organizational layer separating:
+
+- core theory;
+- adaptive system architecture;
+- implementations;
+- validation;
+- case studies;
+- open problems.
+
+Directory:
+
+[WLRT_v5](WLRT_v5/)
+
 ## Canonical Definitions, First Law, and Non-Interpretation Protocol
 
 **DOI (Canonical Version):** https://doi.org/10.5281/zenodo.19854961
