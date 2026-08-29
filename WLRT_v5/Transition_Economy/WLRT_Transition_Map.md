@@ -472,6 +472,11 @@ Redistribution-Capability Economy
 
 ## State-Aware Capitalism
 
+In this document, "State-Aware" refers to awareness of the state of the
+economic system, not to increased control by the political State
+(Government).
+
+
 State-Aware Capitalism is currently treated as a possible transitional
 architecture rather than a final economic model.
 
