@@ -294,7 +294,111 @@ The likely transition architecture is therefore hybrid.
 
 ---
 
-# 7. Labour and Participation
+# 7. Credit, Bankruptcy, and Intertemporal Freedom
+
+Credit and bankruptcy can be interpreted as complementary mechanisms
+governing the relationship between present and future economic states.
+
+Credit performs intertemporal redistribution:
+
+Future Capacity
+→ Present Access
+→ Future Commitment
+
+It expands the action space of the present by committing part of the
+economic capacity of future states.
+
+Bankruptcy and restructuring perform a complementary function:
+
+Failed Past Commitment
+→ Release
+→ Reopened Future Options
+
+Together they form:
+
+Commitment
+↔
+Release
+
+An adaptive economic system requires both.
+
+Too little commitment weakens long-horizon investment and economic
+coordination.
+
+Too little release allows failed decisions of the past to constrain
+future states indefinitely.
+
+## 7.1 Debt and Future State Space
+
+Debt changes not only the financial position of an economic actor but
+also the geometry of its accessible future.
+
+Conceptually:
+
+Ω_future(debt) ⊆ Ω_future
+
+Debt sustainability may therefore require more than the ability to
+service current obligations.
+
+A system may also need to retain sufficient Redistribution Capability
+after debt service to remain adaptive.
+
+## 7.2 Phase Mismatch
+
+Credit obligations are formed in one system state but may remain
+binding after the system enters another phase.
+
+This creates the possibility of:
+
+Intertemporal Phase Mismatch
+
+where the environment changes materially while obligations created
+under the previous phase remain fixed.
+
+This provides a possible connection between credit architecture,
+Phase Time, and systemic fragility.
+
+## 7.3 Bankruptcy as Adaptive Release
+
+Bankruptcy should not automatically be interpreted as systemic
+instability.
+
+A stable adaptive economy may require the ability to absorb local
+failure without losing system continuity.
+
+Conceptually:
+
+Stability
+≠
+Preservation of Every Node
+
+A stronger formulation is:
+
+Stability
+=
+Ability to Absorb Local Failure
+without Losing System Continuity
+
+The objective is therefore not to prevent all failures but to prevent
+local failure from becoming system-wide failure.
+
+## 7.4 Fragility Compensation vs Fragility Transfer
+
+Interventions that stabilize one subsystem may transfer fragility to
+another subsystem.
+
+Therefore:
+
+Fragility Compensation
+≠
+Fragility Transfer
+
+A bailout, refinancing, restructuring, or state intervention should be
+evaluated not only by whether the original node survives but also by
+how the intervention changes the distribution of fragility across the
+wider system.
+
+# 8. Labour and Participation
 
 A second preliminary research direction concerns the relationship
 between labour, income, and access.
@@ -331,7 +435,7 @@ This proposition remains under development.
 
 ---
 
-# 8. Access as a Fundamental Economic Question
+# 9. Access as a Fundamental Economic Question
 
 A major question emerging from the research is:
 
@@ -354,15 +458,55 @@ between capitalism and post-capitalism.
 
 ---
 
-# 9. Preliminary Transition Architecture
+# 10. Preliminary Transition Architecture
 
 A possible long-term transition is currently represented as:
 
 Capital-Centric Economy
 ↓
+State-Aware Capitalism
+↓
 Hybrid Transition Architecture
 ↓
 Redistribution-Capability Economy
+
+## State-Aware Capitalism
+
+State-Aware Capitalism is currently treated as a possible transitional
+architecture rather than a final economic model.
+
+Its defining characteristic is that the major mechanisms of
+capital-centered organization remain operational while their local
+signals are increasingly supplemented by system-state information.
+
+Conceptually:
+
+Price
++
+State
+
+Profit
++
+Trajectory
+
+Capital Allocation
++
+Adaptive Boundaries
+
+Credit
++
+State Responsiveness
+
+Bankruptcy
++
+Adaptive Resolution
+
+The purpose of this stage is not to replace decentralized economic
+coordination.
+
+It is to make previously invisible effects on fragility,
+Redistribution Capability, and future trajectories increasingly
+visible to economic decision-making.
 
 A more detailed provisional phase sequence is:
 
@@ -416,7 +560,7 @@ entire architecture.
 
 ---
 
-# 10. What Must Be Preserved
+# 11. What Must Be Preserved
 
 Any successor architecture must be tested against the functions that
 made capitalism adaptive.
@@ -438,7 +582,7 @@ would likely increase rather than reduce systemic fragility.
 
 ---
 
-# 11. Distributed Choice within Adaptive Boundaries
+# 12. Distributed Choice within Adaptive Boundaries
 
 A central hypothesis emerging from this research is that the
 alternative to unconstrained market optimization does not necessarily
@@ -490,7 +634,7 @@ maximum redundancy or resilience.
 The objective is to preserve sufficient adaptive and redistribution
 capability while allowing decentralized optimization to continue.
 
-## 11.1 Structural and Normative Boundaries
+## 12.1 Structural and Normative Boundaries
 
 A critical distinction must be maintained between:
 
@@ -513,7 +657,7 @@ objective properties of the system.
 This distinction is a methodological safeguard for the transition
 research.
 
-## 11.2 BitCapital as a Micro-Scale Operational Analogue
+## 12.2 BitCapital as a Micro-Scale Operational Analogue
 
 BitCapital pool management provides a limited operational analogue of
 constrained decentralized redistribution.
@@ -556,7 +700,7 @@ Feedback
 
 remains viable under scaling is an open research question.
 
-# 12. Relationship to Beyond the Price
+# 13. Relationship to Beyond the Price
 
 The research direction is consistent with the central conceptual
 movement developed in *Beyond the Price*:
@@ -578,7 +722,7 @@ but also:
 
 ---
 
-# 13. Open Research Areas
+# 14. Open Research Areas
 
 The following areas remain open:
 
@@ -599,7 +743,7 @@ The following areas remain open:
 
 ---
 
-# 14. Current Status
+# 15. Current Status
 
 This document is a research map.
 
