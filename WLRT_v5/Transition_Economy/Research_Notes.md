@@ -753,7 +753,9 @@ Capital
 → Capital
 
 This may create structural resistance to phase transition even when
-alternative architectures become functionally ## OPEN QUESTION-14 — Phase-Aware Credit
+alternative architectures become functionally 
+
+## OPEN QUESTION-14 — Phase-Aware Credit
 
 Can credit structures incorporate phase changes without destroying the
 disciplining function of contractual commitment?
