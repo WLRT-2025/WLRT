@@ -412,7 +412,125 @@ would likely increase rather than reduce systemic fragility.
 
 ---
 
-# 11. Relationship to Beyond the Price
+# 11. Distributed Choice within Adaptive Boundaries
+
+A central hypothesis emerging from this research is that the
+alternative to unconstrained market optimization does not necessarily
+have to be centralized planning.
+
+The distinction can be represented as:
+
+Centralized Planning:
+
+Authority
+→ Desired State
+→ Execution
+
+versus:
+
+Constrained Decentralized Coordination:
+
+System Diagnostics
+→ Admissible State Space
+→ Decentralized Choice
+→ Feedback
+
+In the second architecture, the system does not prescribe a single
+destination.
+
+Instead, it identifies an admissible region:
+
+x(t+1) ∈ Ω_admissible
+
+within which decentralized agents retain freedom to select their own
+trajectories.
+
+This suggests a possible organizing principle:
+
+Adaptive Boundaries
++
+Decentralized Choice
++
+Feedback
+
+The objective is neither:
+
+maximum short-term efficiency
+
+nor:
+
+maximum redundancy or resilience.
+
+The objective is to preserve sufficient adaptive and redistribution
+capability while allowing decentralized optimization to continue.
+
+## 11.1 Structural and Normative Boundaries
+
+A critical distinction must be maintained between:
+
+**Structural / Physical Constraints**
+
+and:
+
+**Normative Constraints**
+
+Some boundaries may be empirically related to physical capacity,
+network stability, liquidity structure, resource availability, or
+other observable system properties.
+
+Other boundaries represent social, ethical, political, or
+distributional choices.
+
+A State-Aware Economy must not disguise normative decisions as
+objective properties of the system.
+
+This distinction is a methodological safeguard for the transition
+research.
+
+## 11.2 BitCapital as a Micro-Scale Operational Analogue
+
+BitCapital pool management provides a limited operational analogue of
+constrained decentralized redistribution.
+
+Pool operators are not necessarily instructed to move a pool toward a
+single predetermined final state.
+
+Instead, management can operate through:
+
+- strategically defined target ranges;
+- permitted redistribution actions;
+- environmental diagnostics;
+- local operator decisions;
+- subsequent feedback.
+
+Conceptually:
+
+Strategic Architecture
+→ Ω_admissible
+→ Operator Choice
+→ Redistribution
+→ Feedback
+
+The significance of this example is limited but potentially useful.
+
+It demonstrates at micro scale that ownership, strategic architecture,
+and operational decision-making can be partially separated while
+local decision freedom is preserved.
+
+It does not establish that the same architecture can operate at firm,
+sectoral, national, or global scales.
+
+Whether the principle:
+
+Adaptive Boundaries
++
+Decentralized Choice
++
+Feedback
+
+remains viable under scaling is an open research question.
+
+# 12. Relationship to Beyond the Price
 
 The research direction is consistent with the central conceptual
 movement developed in *Beyond the Price*:
@@ -434,7 +552,7 @@ but also:
 
 ---
 
-# 12. Open Research Areas
+# 13. Open Research Areas
 
 The following areas remain open:
 
@@ -455,7 +573,7 @@ The following areas remain open:
 
 ---
 
-# 13. Current Status
+# 14. Current Status
 
 This document is a research map.
 
