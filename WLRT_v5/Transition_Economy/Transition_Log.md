@@ -392,3 +392,162 @@ the system's future state space.
 Following the Bankruptcy analysis, the planned repository milestone is:
 
 Research Checkpoint 0.3.
+
+---
+
+## 2026-08-29 — Research Checkpoint 0.3
+
+### Bankruptcy and Adaptive Release
+
+Bankruptcy was analyzed as the complementary mechanism to credit.
+
+Where credit creates intertemporal commitment, bankruptcy and
+restructuring can release future states from commitments associated
+with failed past trajectories.
+
+This produced the pair:
+
+Commitment
+↔
+Release
+
+Both functions appear necessary for an adaptive economic system.
+
+### Bankruptcy as Selection + Release
+
+Bankruptcy was interpreted as performing two systemic functions:
+
+Selection
++
+Release
+
+Selection removes control over resources from persistently
+unsuccessful structures.
+
+Release allows resources and future redistribution capacity to move
+away from failed trajectories.
+
+### Systemic Viability
+
+A distinction was introduced between:
+
+Accounting Solvency
+
+and:
+
+Systemic Viability
+
+A temporarily insolvent structure may retain substantial adaptive
+capacity, while a formally solvent structure may already possess
+declining Redistribution Capability.
+
+This creates two opposite resolution errors:
+
+Viable System
+→ Premature Liquidation
+
+Nonviable System
+→ Continued Support
+
+### Stability
+
+Systemic stability was reconsidered.
+
+Stability does not necessarily mean preservation of every economic
+node.
+
+A provisional stronger definition is:
+
+Stability
+=
+Ability to Absorb Local Failure
+without Losing System Continuity
+
+### Concentration and Selection Failure
+
+Capital concentration may create systemically important nodes whose
+failure can no longer be absorbed locally.
+
+A possible sequence is:
+
+Competition
+→ Selection
+→ Concentration
+→ Systemic Importance
+→ Bankruptcy Suppression
+
+This may create a further loop:
+
+Bankruptcy Suppression
+→ Moral Hazard
+→ Further Concentration
+
+### Fragility Transfer
+
+A distinction was introduced between:
+
+Fragility Compensation
+
+and:
+
+Fragility Transfer
+
+Stabilizing one node may merely move fragility to another carrier.
+
+Potential transfer paths include:
+
+Firm
+→ Bank
+→ State
+→ Monetary or Social System
+
+This distinction may become important for applying the WLRT relation:
+
+S = C - F
+
+to intervention and crisis analysis.
+
+### Candidate General Principle
+
+The candidate general principle survived the Credit–Bankruptcy
+analysis:
+
+> An economic mechanism remains systemically functional while the
+> execution of its local function does not critically impair the
+> system's capability for subsequent redistribution.
+
+Its status remains provisional.
+
+### Transitional Architecture
+
+A new intermediate research stage was introduced:
+
+Capital-Centric Economy
+→ State-Aware Capitalism
+→ Hybrid Transition Architecture
+→ Redistribution-Capability Economy
+
+State-Aware Capitalism retains the major mechanisms of contemporary
+capitalism while supplementing their local signals with information
+about system state, fragility, trajectory, and Redistribution
+Capability.
+
+### Next Research Step
+
+State Stabilization.
+
+The next investigation should examine the state not primarily as an
+alternative to markets, but as a higher-level mechanism capable of:
+
+- absorbing local failure;
+- transferring fragility;
+- creating Compensation;
+- changing admissible boundaries;
+- redistributing resources across subsystems and phase times.
+
+The central question is:
+
+When does state intervention genuinely increase system-level
+Redistribution Capability, and when does it merely move or postpone
+fragility?
+
