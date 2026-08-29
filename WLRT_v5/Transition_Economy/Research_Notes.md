@@ -1078,3 +1078,63 @@ the future?
 Can WLRT diagnostics distinguish these regimes before conventional
 default indicators become critical?
 
+## OPEN QUESTION-17 — Viability vs Release
+
+How can a system distinguish between:
+
+temporary liquidity failure in an adaptively viable structure
+
+and:
+
+structural loss of Redistribution Capability?
+
+This distinction is critical because the two errors have opposite
+costs:
+
+premature liquidation may destroy useful future capacity;
+
+continued support may lock resources inside a structurally declining
+trajectory.
+
+---
+
+## OPEN QUESTION-18 — Measuring Fragility Transfer
+
+Can WLRT distinguish quantitatively between:
+
+Fragility Compensation
+
+and:
+
+Fragility Transfer?
+
+How should system-level analysis account for an intervention that
+reduces LFI in one subsystem while increasing fragility elsewhere?
+
+---
+
+## OPEN QUESTION-19 — Systemically Important Nodes
+
+How should an adaptive economic architecture handle nodes whose local
+failure would threaten system continuity?
+
+Should the objective be to prevent their failure, or should the
+architecture prevent nodes from becoming structurally
+non-substitutable in the first place?
+
+---
+
+## OPEN QUESTION-20 — Resolution and Redistribution Capability
+
+Can restructuring alternatives be compared through their effect on
+future Redistribution Capability?
+
+Under what conditions is:
+
+R_restructure > R_continue
+
+or:
+
+R_continue > R_restructure
+
+a meaningful and measurable distinction?
