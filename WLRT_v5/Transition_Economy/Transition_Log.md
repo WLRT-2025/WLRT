@@ -794,3 +794,238 @@ The central questions are:
   redistribution when growth slows?
 - Can Redistribution Capability provide a different criterion from
   aggregate growth?
+
+---
+
+## 2026-08-29 — Interim Research Checkpoint 0.4.1
+
+### Knowledge-Derived Capability
+
+A new research branch emerged from the distinction between physical resources
+and knowledge.
+
+Physical resources are commonly rival.
+
+Knowledge may be non-rival and can potentially support multiple simultaneous
+uses without being depleted.
+
+A further distinction was identified:
+
+knowledge can produce economic value for another participant without being
+transferred to that participant.
+
+The basic architecture is:
+
+Knowledge
+→ Operational Architecture
+→ Capability
+→ User Outcome
+
+while:
+
+Knowledge
+↛ User
+
+### Capability Access
+
+The economic object being exchanged may therefore be access to a capability
+produced by knowledge rather than ownership of the knowledge itself.
+
+This provides a more precise interpretation of "renting knowledge":
+
+temporary or conditional access to knowledge-derived capability.
+
+### Knowledge and Adaptive State Space
+
+Knowledge may expand or reshape the effectively reachable state space of a
+system.
+
+It may create new feasible transitions, improve state recognition, reduce
+transition cost, or improve trajectory selection.
+
+Knowledge can therefore influence Redistribution Capability without being
+transferred to the resource owner.
+
+### Relational Capability
+
+Capability may arise from the relationship among:
+
+Assets
++
+Knowledge
++
+Architecture
++
+Execution
++
+Infrastructure
++
+Environment
+
+rather than existing entirely inside one independently owned asset.
+
+Therefore:
+
+Same Asset Stock
+≠
+Same System Capability
+
+### Capability Power
+
+Control over a critical capability may create economic power without ownership
+of the underlying assets.
+
+This was identified as a possible form of Meta-Redistribution Power.
+
+### Augmentation vs Dependency
+
+External capability may either expand the user's independent possibilities or
+create critical dependence on the provider.
+
+Therefore capability gain must be evaluated together with:
+
+Independent Capability
+
+Effective Exitability
+
+Governance Transparency
+
+Capability Substitutability
+
+### Capability Topology
+
+Distributed asset ownership does not necessarily imply distributed capability.
+
+Many independent asset owners may depend on a small number of capability
+providers.
+
+Therefore:
+
+Ownership Topology
+≠
+Capability Topology
+
+### Knowledge Capability Concentration
+
+A possible positive feedback loop was identified:
+
+Knowledge Advantage
+→ Usage
+→ Experience / Data / Feedback
+→ Better Capability
+→ More Usage
+
+This may create capability concentration even when ownership of underlying
+assets remains distributed.
+
+### Opacity and Governance
+
+A distinction was introduced between:
+
+Knowledge Opacity
+
+and:
+
+Governance Opacity.
+
+Protected intellectual knowledge may coexist with transparent information
+about:
+
+State
+Rights
+Risks
+Authority
+Constraints
+Ownership
+Exit
+
+### Knowledge Scalability and Capability Scalability
+
+Knowledge may be non-rival while the opportunity or service produced from that
+knowledge remains rival or congestible.
+
+Therefore:
+
+Knowledge Scalability
+≠
+Capability Scalability
+
+and:
+
+Knowledge may be non-rival
+while
+Economic Opportunity remains rival.
+
+Scaling use of knowledge can alter the environment in which the knowledge is
+applied.
+
+### Capability Inequality
+
+Participants with similar conventional resources may have substantially
+different reachable state spaces because they possess different access to
+knowledge-derived capabilities.
+
+Economic inequality may therefore increasingly include:
+
+Capability Inequality.
+
+### BitCapital / KEFEN Operational Analogue
+
+BitCapital pool management provides a micro-scale operational analogue.
+
+Independent pool owners retain ownership of their assets while using an
+external management architecture without receiving the complete underlying
+management knowledge.
+
+A provisional representation is:
+
+External Knowledge Architecture
+→ Capability Layer
+→ Independent Liquidity Pool
+
+KEFEN may be studied as one component of the interface through which protected
+management knowledge becomes operational redistribution capability.
+
+KEFEN itself should not be interpreted as containing the knowledge.
+
+This operational analogue does not establish macro-scale validity.
+
+### Connection to Growth
+
+Knowledge-derived capability provides a concrete mechanism through which:
+
+Capability Growth
+
+may occur without proportional:
+
+Material Growth
+
+or proportional reproduction of the underlying knowledge.
+
+However, capability remains subject to:
+
+Infrastructure
+Complexity
+Congestion
+Environmental Feedback
+Scale Effects
+
+### Next Research Step
+
+Return to Growth Optionality.
+
+The next question remains:
+
+Which institutional structures make continuous aggregate growth necessary for
+system stability, and how would credit, profit, labour, pensions, and
+government finance need to change for a system to remain viable across:
+
+Growth
+
+Low Growth
+
+Zero Aggregate Growth
+
+and:
+
+Temporary Contraction?
