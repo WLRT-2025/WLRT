@@ -282,20 +282,109 @@ Different rights may operate under different constraints.
 
 ---
 
+
 ## 6. Credit
 
-**Function**  
-Transfers future economic capacity into the present.
+**Function**
 
-**Benefit**  
-Accelerates investment and development.
+Credit performs intertemporal redistribution.
 
-**Fragility**  
-Future states become constrained by obligations created in earlier
-states.
+It allows present economic actors to access resources on the basis of
+expected future economic capacity.
 
-**Boundary**  
-To be investigated.
+Conceptually:
+
+Future Capacity
+→ Present Access
+→ Future Obligation
+
+Credit therefore allows investment and economic activity to occur
+before the resources required to finance them have been fully
+accumulated.
+
+**Benefit**
+
+Credit accelerates:
+
+- investment;
+- productive expansion;
+- innovation;
+- infrastructure development;
+- adaptation;
+- intertemporal resource allocation.
+
+It allows potentially valuable future production to influence present
+economic activity.
+
+Without this function, many large-scale and long-horizon economic
+processes would develop substantially more slowly.
+
+**Fragility**
+
+Credit exchanges additional present freedom for reduced future
+optionality.
+
+After an obligation is created, part of future redistribution capacity
+is already committed.
+
+Conceptually:
+
+Ω_future(debt) ⊆ Ω_future
+
+Credit contracts are also created under expectations about future
+states that may not materialize.
+
+The environment can change while the obligation persists.
+
+This creates the possibility of Intertemporal Phase Mismatch.
+
+At high levels of debt, past decisions may increasingly determine the
+redistribution structure of the present system.
+
+Refinancing can also generate a reinforcing loop when additional debt
+is used to sustain a system whose underlying Redistribution Capability
+is already declining.
+
+**Boundary**
+
+The structural boundary of credit is not reached simply when debt
+becomes large.
+
+It is approached when servicing existing obligations reduces the
+system's remaining Redistribution Capability below the level required
+for effective adaptation.
+
+Debt sustainability may therefore require more than:
+
+Cash Flow ≥ Debt Service
+
+It may also require preservation of sufficient adaptive capacity after
+debt service.
+
+**Potential Replacement / Extension**
+
+Credit should not necessarily be eliminated.
+
+A possible development is:
+
+Credit
+→ Credit + State Diagnostics
+→ Adaptive Credit
+
+Some obligations may evolve from purely fixed structures toward
+state-responsive structures.
+
+The objective is to preserve simultaneously:
+
+Commitment
++
+Adaptive Capacity
+
+Credit would continue to transfer economic capability through time
+without allowing present decisions to excessively eliminate future
+redistribution options.
+
+**Status:** HYPOTHESIS / DEVELOPING
 
 ---
 
