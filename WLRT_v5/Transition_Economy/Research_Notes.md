@@ -144,6 +144,288 @@ dominant functions change.
 
 ---
 
+## HYPOTHESIS-11 — Trajectory Cost
+
+An economic result may need to be evaluated not only by the return
+generated, but also by the future possibilities that were lost in
+order to obtain that return.
+
+This suggests a provisional concept:
+
+Trajectory Cost (TC)
+
+Trajectory Cost represents the loss, narrowing, or degradation of
+future admissible trajectories associated with a current economic
+decision.
+
+Conceptually:
+
+Economic Result
+≠
+Current Return Alone
+
+A decision generating a higher current return may be inferior at the
+system level if it disproportionately reduces future redistribution
+options.
+
+Trajectory Cost is currently an exploratory concept and is not a
+canonical WLRT metric.
+
+---
+
+## HYPOTHESIS-12 — Profit Boundary
+
+The structural boundary of profit-based coordination may arise not
+when profit disappears, but when positive profit ceases to be a
+reliable signal of systemically beneficial redistribution.
+
+It is possible for:
+
+Profit(i) > 0
+
+while:
+
+Δ Redistribution Capability(system) < 0
+
+Local profitability and systemic viability therefore cannot be
+assumed to be identical.
+
+---
+
+## HYPOTHESIS-13 — Fragility Selection
+
+Competition under stable conditions may create a selection advantage
+for highly optimized but increasingly fragile architectures.
+
+A possible sequence is:
+
+Competition
+→ Efficiency Pressure
+→ Optimization
+→ Redundancy Reduction
+→ Fragility
+
+Redundancy appears as a cost during normal conditions even when it
+provides substantial value during disturbances.
+
+As a result, individually rational economic actors may be pressured
+toward architectures that collectively increase systemic fragility.
+
+---
+
+## HYPOTHESIS-14 — Non-Event Value
+
+Conventional economic accounting measures realized events much more
+easily than successfully prevented events.
+
+Reserves, redundancy, optionality, and adaptive capacity may create
+value precisely by preventing:
+
+- production failures;
+- liquidity crises;
+- supply interruptions;
+- bankruptcies;
+- cascading failures.
+
+The economic value of a non-event may therefore be substantial even
+when it produces no directly observable revenue.
+
+This may be relevant to the WLRT concepts of Compensation,
+Fragility, and Redistribution Capability.
+
+---
+
+## HYPOTHESIS-15 — Constrained Decentralized Optimization
+
+A possible successor architecture does not require the replacement of
+decentralized market decisions by centralized planning.
+
+Instead, decentralized optimization may operate inside an adaptive
+admissible state space:
+
+x(t+1) ∈ Ω_admissible
+
+The architecture determines boundaries rather than a predetermined
+destination.
+
+Agents remain free to select trajectories within those boundaries.
+
+Conceptually:
+
+Adaptive Boundaries
++
+Decentralized Choice
++
+Feedback
+
+This differs from centralized planning, in which an authority
+specifies the desired future state.
+
+---
+
+## HYPOTHESIS-16 — Capital as Meta-Redistribution Power
+
+Capital provides more than purchasing power or stored economic value.
+
+Accumulated capital may also increase the ability to influence future
+redistributions through:
+
+- access to opportunities;
+- information;
+- credit;
+- bargaining power;
+- acquisition of competitors;
+- infrastructure control;
+- institutional influence.
+
+Capital accumulation may therefore redistribute not only resources
+but also the ability to influence subsequent redistribution.
+
+---
+
+## HYPOTHESIS-17 — Competition Self-Erosion
+
+Competition may contain a self-limiting dynamic.
+
+A possible sequence is:
+
+Competition
+→ Selection
+→ Concentration
+→ Market Power
+→ Entry Barriers
+→ Reduced Competition
+
+A mechanism that initially increases adaptive efficiency may therefore
+gradually weaken the structural conditions required for its own
+operation.
+
+---
+
+## HYPOTHESIS-18 — Topological Fragility
+
+Systemic fragility may arise not only from the condition of individual
+nodes but also from the topology connecting them.
+
+Concentration may reduce the number of effectively independent
+redistribution paths while increasing the criticality of individual
+nodes.
+
+Conceptually:
+
+N_effective ↓
+while
+Node Criticality ↑
+
+This provisional concept is referred to here as:
+
+Topological Fragility (TF)
+
+TF is currently an exploratory research concept and is not a
+canonical WLRT metric.
+
+---
+
+## HYPOTHESIS-19 — Effective Redistribution Paths
+
+The Redistribution Capability of a system may depend not only on the
+quantity of available resources but also on the number and diversity
+of effectively independent paths through which those resources can be
+redistributed.
+
+Formal organizational diversity may therefore differ substantially
+from effective redistribution diversity.
+
+For example:
+
+N_formal ≠ N_effective
+
+A system containing many legal entities may still possess only a small
+number of genuinely independent redistribution paths if those entities
+depend on common infrastructure, financing, ownership, information,
+or control layers.
+
+---
+
+## HYPOTHESIS-20 — Functional Separation of Ownership Rights
+
+Ownership should not necessarily be treated as a single indivisible
+economic function.
+
+It may be decomposed into distinct rights including:
+
+- use;
+- income;
+- control;
+- transfer;
+- architectural modification;
+- responsibility for consequences.
+
+A future economic architecture may preserve private ownership while
+separating some of these functions where their concentration creates
+systemic fragility.
+
+---
+
+## OBSERVATION — BitCapital Operational Analogue
+
+BitCapital pool management already provides a micro-scale operational
+example of constrained decentralized redistribution.
+
+Operators are not normally given a single predetermined final state.
+
+Instead, they operate through:
+
+- strategically defined target ranges;
+- permitted redistribution actions;
+- current environmental diagnostics;
+- local operational decisions.
+
+Conceptually:
+
+Strategic Architecture
+→ Ω_admissible
+→ Operator Choice
+→ Redistribution
+→ Feedback
+
+The operator therefore retains local decision freedom while acting
+inside strategically defined boundaries intended to preserve the
+pool's capacity for subsequent redistribution.
+
+This does not establish the validity of the same architecture at
+larger economic scales.
+
+It provides an operational analogue that may be studied.
+
+---
+
+## HYPOTHESIS-21 — Scaling of Constrained Decentralized Redistribution
+
+The BitCapital architecture suggests a possible scale-independent
+research principle:
+
+Adaptive Boundaries
++
+Decentralized Choice
++
+Feedback
+
+A possible scaling sequence for investigation is:
+
+Pool
+→ Firm
+→ Network
+→ Sector
+→ Economy
+
+Whether the principle remains viable under such scaling is an open
+research question.
+
+This question may be relevant to the WLRT principle of scale
+invariance but should not be treated as derived from it without
+additional analysis.
+
 ## OBSERVATION-01 — Ownership, Participation, and Control
 
 Contemporary systems increasingly separate:
