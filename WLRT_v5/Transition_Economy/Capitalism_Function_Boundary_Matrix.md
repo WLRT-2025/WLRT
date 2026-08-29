@@ -139,25 +139,70 @@ within an admissible adaptive state space.
 
 **Status:** HYPOTHESIS / DEVELOPING
 
----
+---## 4. Profit
 
-## 4. Profit
+**Function**
 
-**Function**  
-Performance signal and incentive.
+Profit provides decentralized feedback about the economic result of an
+activity.
 
-**Benefit**  
-Provides feedback about local economic outcomes.
+Conceptually:
 
-**Fragility**  
-Local profitability may coexist with transferred or accumulated
-systemic fragility.
+Capital
+→ Activity
+→ Profit / Loss
+→ Adaptation
 
-**Boundary**  
-To be investigated.
+**Benefit**
 
-**Potential Replacement / Extension**  
-Profit supplemented by state and trajectory diagnostics.
+Profit and loss allow economic agents to evaluate experiments without
+requiring a central authority to determine every successful or
+unsuccessful use of resources.
+
+This creates a powerful decentralized learning mechanism.
+
+**Fragility**
+
+Profit measures the local realized result more effectively than the
+effect of that result on the wider system state.
+
+It is therefore possible for:
+
+Profit(i) > 0
+
+while:
+
+Δ Redistribution Capability(system) < 0
+
+A profitable operation may simultaneously:
+
+- reduce redundancy;
+- transfer fragility;
+- concentrate dependency;
+- consume future optionality;
+- narrow admissible trajectories.
+
+**Boundary**
+
+The structural boundary is reached when positive profit ceases to be a
+reliable signal of systemically beneficial redistribution.
+
+This boundary does not require profit itself to become negative.
+
+**Potential Replacement / Extension**
+
+Profit should not necessarily be eliminated.
+
+A possible transition is:
+
+Profit
+→ Profit + State Diagnostics
+→ Profit within Admissible State Constraints
+
+This preserves decentralized feedback while incorporating the wider
+state and trajectory of the system.
+
+**Status:** HYPOTHESIS / DEVELOPING
 
 ---
 
