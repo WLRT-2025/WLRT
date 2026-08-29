@@ -600,20 +600,158 @@ allowing failed commitments to release future adaptive capacity.
 
 ---
 
-## 10. State Stabilization
+## 10. State (Government)
 
-**Function**  
-Systemic buffering, redistribution, regulation, and crisis response.
+**Function**
 
-**Benefit**  
-Allows local failures and social shocks to be absorbed.
+The State performs several distinct economic functions:
 
-**Fragility**  
-Fragility can be transferred from private/local systems to the
-sovereign/macroeconomic level.
+- rule architecture;
+- enforcement;
+- collective Compensation;
+- infrastructure provision;
+- systemic stabilization;
+- redistribution;
+- public investment;
+- systemic backstop.
 
-**Boundary**  
-To be investigated.
+Government can define part of the admissible action space within which
+decentralized actors operate.
+
+It can also mobilize resources across subsystems when local Compensation
+capacity is insufficient.
+
+**Benefit**
+
+Government can support functions that decentralized markets may
+systematically underprovide.
+
+These include:
+
+- public infrastructure;
+- basic rule enforcement;
+- redundancy;
+- long-horizon investment;
+- crisis Compensation;
+- cascade prevention;
+- systemic continuity;
+- protection of rights.
+
+Government intervention can be particularly valuable when local
+economic mechanisms cannot create sufficient Compensation within the
+required time horizon.
+
+**Fragility**
+
+Government possesses substantial redistribution power.
+
+This creates several possible systemic failures.
+
+Selection by Performance can be replaced by:
+
+Selection by Access
+
+A Political Redistribution Loop may emerge:
+
+Political Access
+→ Preferential Redistribution
+→ Economic Power
+→ Institutional Influence
+→ Greater Political Access
+
+Economic actors may invest in Allocation Capture rather than productive
+adaptation.
+
+Government intervention may also:
+
+- transfer rather than compensate fragility;
+- obscure underlying risk;
+- socialize consequences of private decisions;
+- preserve nonviable structures;
+- create permanent dependency;
+- generate bureaucratic self-preservation;
+- create entry barriers;
+- increase concentration;
+- reduce independent economic trajectories.
+
+A further structural problem emerges because territorial government
+boundaries increasingly differ from the topology of many economic
+systems.
+
+Boundary(Government)
+≠
+Boundary(Economic System)
+
+may create Regulatory Topology Mismatch.
+
+**Boundary**
+
+Government intervention approaches its systemic boundary when the
+combined costs of:
+
+- resource extraction;
+- incentive distortion;
+- fragility transfer;
+- political allocation;
+- future obligations;
+- concentration;
+- reduced decentralized selection;
+- governance mismatch;
+
+exceed the Redistribution Capability preserved or created by the
+intervention.
+
+A government mechanism may therefore be systemically useful in one
+phase and harmful in another.
+
+**Potential Replacement / Extension**
+
+The alternative is not necessarily:
+
+State
+→ No State
+
+A possible development is:
+
+Territorial State
+→ Functionally Decomposed Government
+→ Layered Polycentric Governance
+
+with:
+
+Territorial Governance
++
+Functional Governance
++
+Ecosystem Governance
++
+Meta-Governance
+
+Key constraints include:
+
+Governance Authority
+↔
+Fragility Responsibility
+
+Governance Autonomy
+↔
+Fragility Internalization
+
+Governance Competition
+↔
+Effective Exitability
+
+Government support should target systemic functions rather than
+incumbent institutions whenever possible.
+
+Temporary Compensation should include:
+
+Trigger
+→ Intervention
+→ State Test
+→ Exit
+
+**Status:** HYPOTHESIS / DEVELOPING
 
 ---
 
