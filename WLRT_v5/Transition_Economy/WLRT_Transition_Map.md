@@ -705,6 +705,104 @@ Feedback
 
 remains viable under scaling is an open research question.
 
+# Knowledge-Derived Capability
+
+The Transition Economy may increasingly distinguish between ownership of
+knowledge and access to capabilities produced by that knowledge.
+
+A basic architecture is:
+
+Knowledge
+→ Operational Architecture
+→ Capability
+→ User Outcome
+
+without requiring:
+
+Knowledge
+→ User
+
+This allows independently owned resources to use external knowledge-derived
+capabilities without requiring transfer of the underlying knowledge.
+
+The resulting architecture separates:
+
+Asset Ownership
+
+Knowledge Ownership
+
+Capability Access
+
+Operational Control
+
+Architecture Modification Rights
+
+Result Participation
+
+Knowledge-derived capability may expand the effectively reachable state space
+of a participant.
+
+Therefore economic access may increasingly include:
+
+Access to Resources
+
+and:
+
+Access to Capability
+
+This creates both opportunity and fragility.
+
+Knowledge-derived capability can distribute advanced economic functions across
+many independent asset owners.
+
+At the same time, dependence on a small number of capability providers can
+create:
+
+Capability Concentration
+
+even when:
+
+Asset Ownership
+
+remains decentralized.
+
+A future Redistribution-Capability Economy may therefore need to evaluate both:
+
+Ownership Topology
+
+and:
+
+Capability Topology.
+
+A central working distinction is:
+
+Knowledge Opacity
+≠
+Governance Opacity
+
+Protected intellectual knowledge may coexist with transparent rights, system
+state, authority boundaries, risks, and exit conditions.
+
+Knowledge may also be more scalable than the economic capability derived from
+it.
+
+Therefore:
+
+Knowledge Scalability
+≠
+Capability Scalability
+
+This mechanism provides one possible route through which:
+
+Capability Growth
+
+can exceed:
+
+Material Growth
+
+without implying that capability itself is free from infrastructure,
+complexity, congestion, or environmental constraints.
+
 # 13. Relationship to Beyond the Price
 
 The research direction is consistent with the central conceptual
