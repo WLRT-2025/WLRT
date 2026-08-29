@@ -67,6 +67,7 @@ Hybrid monetary and non-monetary access mechanisms.
 **Status:** DEVELOPING
 
 ---
+
 ## 3. Capital
 
 **Function**
@@ -317,18 +318,77 @@ To be investigated.
 
 ## 8. Competition
 
-**Function**  
-Discovery, selection, adaptation, and efficiency pressure.
+**Function**
 
-**Benefit**  
-Encourages experimentation and removes persistently inefficient
-structures.
+Competition provides:
 
-**Fragility**  
-Efficiency pressure may remove redundancy required for resilience.
+- discovery;
+- experimentation;
+- selection;
+- adaptation;
+- efficiency pressure.
 
-**Boundary**  
-To be investigated.
+**Benefit**
+
+Competing agents can explore different solutions simultaneously.
+
+Poorly performing structures may lose resources while more successful
+structures expand.
+
+This creates decentralized evolutionary selection.
+
+**Fragility**
+
+Competition may systematically reward architectures that reduce
+costly redundancy during stable periods.
+
+A possible sequence is:
+
+Competition
+→ Efficiency Pressure
+→ Optimization
+→ Redundancy Reduction
+→ Fragility
+
+Competition may also generate concentration:
+
+Competition
+→ Selection
+→ Concentration
+→ Market Power
+→ Entry Barriers
+→ Reduced Competition
+
+Competition can therefore weaken the structural conditions required
+for its own continued operation.
+
+**Boundary**
+
+The boundary appears when efficiency gains from further optimization
+are outweighed by:
+
+- loss of redundancy;
+- concentration;
+- dependency;
+- loss of independent redistribution paths;
+- increased systemic fragility.
+
+**Potential Replacement / Extension**
+
+Competition remains valuable as a decentralized discovery mechanism.
+
+A possible architecture is:
+
+Competition
+within
+Adaptive Admissible Boundaries
+
+The objective is not maximum resilience or maximum efficiency.
+
+It is efficient decentralized adaptation within a state space that
+preserves sufficient Redistribution Capability.
+
+**Status:** HYPOTHESIS / DEVELOPING.
 
 ---
 
