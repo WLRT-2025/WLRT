@@ -139,7 +139,9 @@ within an admissible adaptive state space.
 
 **Status:** HYPOTHESIS / DEVELOPING
 
----## 4. Profit
+---
+
+## 4. Profit
 
 **Function**
 
@@ -208,18 +210,74 @@ state and trajectory of the system.
 
 ## 5. Ownership
 
-**Function**  
-Control, responsibility, incentive, and allocation rights.
+**Function**
 
-**Benefit**  
-Creates durable claims and supports long-term decision-making.
+Ownership creates durable claims over resources and provides
+mechanisms for:
 
-**Fragility**  
-Ownership can become separated from participation, consequences, and
-systemic risk.
+- use;
+- income;
+- control;
+- transfer;
+- responsibility;
+- long-term decision-making.
 
-**Boundary**  
-To be investigated.
+**Benefit**
+
+Ownership can connect decision-making authority with incentives and
+consequences.
+
+At smaller scales this may produce a strong relationship:
+
+Ownership
+→ Responsibility
+→ Decision
+→ Consequence
+
+**Fragility**
+
+As systems grow, several functions may become separated:
+
+Ownership ≠ Control
+
+Control ≠ Participation
+
+Decision ≠ Consequence
+
+Profit Carrier ≠ Fragility Carrier
+
+Ownership can therefore evolve from a simple responsibility mechanism
+into a multilayer architecture of rights, control, and risk transfer.
+
+Concentrated ownership may also increase control over infrastructure,
+information, access, and future redistribution.
+
+**Boundary**
+
+Ownership becomes structurally problematic when concentration of
+ownership rights reduces effective redistribution diversity or allows
+the holder to alter the rules of redistribution in ways that protect
+its own accumulated position.
+
+**Potential Replacement / Extension**
+
+Rather than eliminating private ownership, future architectures may
+separate some of its functions.
+
+A provisional decomposition is:
+
+Ownership Rights
+=
+Use
++ Income
++ Control
++ Transfer
++ Architectural Influence
++ Responsibility
+
+Different rights may operate under different constraints.
+
+**Status:** HYPOTHESIS / DEVELOPING
 
 ---
 
