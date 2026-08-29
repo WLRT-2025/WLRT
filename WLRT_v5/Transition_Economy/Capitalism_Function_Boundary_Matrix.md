@@ -483,19 +483,120 @@ preserves sufficient Redistribution Capability.
 
 ## 9. Bankruptcy
 
-**Function**  
-Local termination of failed economic structures.
+**Function**
 
-**Benefit**  
-Releases resources and prevents indefinite accumulation of local
-failure.
+Bankruptcy performs two related systemic functions:
 
-**Fragility**  
-Systemically important entities may become too interconnected to fail
-locally.
+Selection
++
+Release
 
-**Boundary**  
-When local failure threatens system-level continuity.
+Selection allows persistently unsuccessful structures to lose control
+over resources.
+
+Release allows resources and future economic capacity to be freed from
+commitments associated with failed trajectories.
+
+Bankruptcy can therefore be interpreted not only as failure but also
+as:
+
+Release of Resources from a Failed Trajectory
+
+**Benefit**
+
+Bankruptcy prevents decisions made in the past from binding future
+states indefinitely.
+
+It enables:
+
+- reallocation of assets;
+- restructuring of obligations;
+- changes in ownership;
+- release of productive resources;
+- termination of structurally unsuccessful organizations;
+- reopening of future economic options.
+
+Together with credit, bankruptcy creates an intertemporal pair:
+
+Commitment
+↔
+Release
+
+Credit allows the present to use expected future capacity.
+
+Bankruptcy prevents failed claims on that future from becoming
+permanent.
+
+**Fragility**
+
+Bankruptcy itself can destroy valuable Redistribution Capability if a
+temporarily distressed but adaptively viable structure is liquidated.
+
+Conversely, suppression of bankruptcy can lock resources inside
+structurally declining systems.
+
+The two principal errors are therefore:
+
+Viable System
+→ Premature Liquidation
+
+and:
+
+Nonviable System
+→ Continued Support
+
+Concentration creates an additional problem.
+
+As nodes become systemically important, local failure may produce
+system-level cascades.
+
+This can suppress the normal bankruptcy mechanism and transfer
+fragility to banks, governments, monetary systems, workers, or other
+economic actors.
+
+**Boundary**
+
+The relevant boundary is not simply inability to service current
+obligations.
+
+The deeper question is whether the existing organization of resources
+retains greater future Redistribution Capability than the alternative
+organization that could emerge through restructuring or release.
+
+Conceptually:
+
+R_continue
+vs
+R_restructure
+
+Accounting solvency alone may therefore be insufficient for evaluating
+systemic viability.
+
+**Potential Replacement / Extension**
+
+Bankruptcy should not necessarily be eliminated.
+
+A possible development is:
+
+Binary Bankruptcy
+→ Adaptive Resolution
+
+with a range of responses:
+
+Continue
+↔
+Restructure
+↔
+Split
+↔
+Transfer
+↔
+Liquidate
+
+The objective is to preserve useful selection and responsibility while
+allowing failed commitments to release future adaptive capacity.
+
+**Status:** HYPOTHESIS / DEVELOPING
 
 ---
 
