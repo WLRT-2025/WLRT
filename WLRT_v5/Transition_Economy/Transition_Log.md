@@ -281,3 +281,114 @@ Credit and intertemporal fragility:
 How does credit transfer future economic capacity into the present,
 and under what conditions does this process reduce the freedom of
 future system states?
+
+---
+
+## 2026-08-29 — Interim Research Checkpoint 0.2.1
+
+### Credit and Intertemporal Redistribution
+
+Credit was analyzed independently of specific banking institutions,
+interest-rate regimes, or monetary-policy structures.
+
+Its fundamental function was interpreted as intertemporal
+redistribution:
+
+Future Capacity
+→ Present Access
+→ Future Constraint
+
+Credit expands the action space available to the present system by
+committing part of the redistribution capacity of future states.
+
+### Future State Space
+
+Debt was interpreted as changing not only the financial coordinates of
+a system but also the geometry of its accessible future.
+
+Conceptually:
+
+Ω_future(debt) ⊆ Ω_future
+
+This produced the hypothesis that debt sustainability should be
+evaluated not only through repayment capacity but also through the
+adaptive capacity remaining after debt service.
+
+### Phase Time
+
+A credit obligation is created in one system state but may remain
+binding after a phase transition.
+
+This produced the exploratory concept:
+
+Intertemporal Phase Mismatch
+
+The concept describes a situation in which obligations formed under
+one phase architecture persist after the system has entered a
+materially different phase.
+
+### Debt Fragility Loop
+
+Refinancing was distinguished into two possible regimes.
+
+In one regime it preserves an otherwise viable system through a
+temporary disturbance.
+
+In another it may create a reinforcing loop:
+
+Declining Redistribution Capability
+→ New Debt
+→ More Future Constraints
+→ Further Decline in Redistribution Capability
+→ New Debt
+
+Determining the boundary between these regimes remains an open
+research problem.
+
+### Adaptive Credit
+
+A possible evolutionary direction was identified:
+
+Fixed Obligation
+→ State-Responsive Obligation
+
+The objective is not to eliminate contractual responsibility.
+
+A viable adaptive credit architecture would need to preserve:
+
+Commitment
++
+Adaptive Capacity
+
+### Candidate General Principle
+
+Analysis of Price, Capital, Profit, Competition, Ownership, and Credit
+has begun to reveal a possible common principle:
+
+> An economic mechanism remains systemically functional while the
+> execution of its local function does not critically impair the
+> system's capability for subsequent redistribution.
+
+This proposition remains a candidate general principle.
+
+It has not been promoted to CANON and should be tested against the
+remaining mechanisms.
+
+### Research Pause
+
+Research paused after completion of the Credit block.
+
+### Next Research Step
+
+Bankruptcy.
+
+The next investigation will examine bankruptcy as a possible
+counter-mechanism to credit:
+
+if credit commits future redistribution capacity, bankruptcy may under
+certain conditions release obsolete commitments and reopen parts of
+the system's future state space.
+
+Following the Bankruptcy analysis, the planned repository milestone is:
+
+Research Checkpoint 0.3.
