@@ -758,3 +758,154 @@ architecture:
 3. reduces identifiable sources of systemic fragility;
 4. can emerge through realistic transitional phases;
 5. can be described and tested using WLRT.
+
+## Polycentric Governance Transition
+
+The transition toward a Redistribution-Capability Architecture may also
+require reconsideration of the governance boundary itself.
+
+Contemporary government remains primarily territorial:
+
+Territory
+→ Jurisdiction
+
+However, an increasing share of economic activity is organized through
+networks whose boundaries do not correspond to political geography.
+
+Examples include:
+
+- global financial networks;
+- payment systems;
+- digital infrastructure;
+- platforms;
+- transnational supply chains;
+- distributed production;
+- data networks.
+
+This creates:
+
+Boundary(Government)
+≠
+Boundary(Economic System)
+
+and therefore the possibility of Regulatory Topology Mismatch.
+
+### Boundary-Matched Governance
+
+A possible development is to assign governance functions according to
+the topology of the underlying system rather than assuming that all
+economic governance must remain territorial.
+
+A provisional architecture is:
+
+G_T = Territorial Governance
+
+G_F = Functional Governance
+
+G_E = Ecosystem Governance
+
+G_M = Meta-Governance
+
+Conceptually:
+
+G
+=
+G_T + G_F + G_E + G_M
+
+This expression is architectural rather than a formal mathematical
+identity.
+
+### Territorial Governance
+
+Likely persistent territorial functions include:
+
+- physical security;
+- land and local environment;
+- physical infrastructure;
+- public enforcement;
+- protection of fundamental rights;
+- ultimate control of legitimate physical coercion.
+
+### Functional Governance
+
+Network-scale governance may become increasingly relevant for:
+
+- payment infrastructure;
+- digital infrastructure;
+- financial networks;
+- transnational supply systems;
+- other economic systems whose dependency topology exceeds territorial
+  boundaries.
+
+### Ecosystem Governance
+
+Economic ecosystems may govern parts of their internal redistribution
+architecture when the consequences of those rules can be substantially
+internalized.
+
+A working principle is:
+
+Governance Autonomy
+↔
+Fragility Internalization
+
+### Meta-Governance
+
+Layered governance requires rules governing interaction between
+governance layers.
+
+Meta-governance may address:
+
+- interoperability;
+- participant rights;
+- conflict resolution;
+- portability;
+- externalized fragility;
+- responsibility for system failure;
+- boundaries between public and private authority.
+
+### Effective Exitability
+
+Competition between governance architectures is meaningful only when
+participants can actually leave.
+
+Formal exit is insufficient.
+
+Effective Exitability depends on the portability of assets, rights,
+data, identity, accumulated benefits, and economic activity.
+
+Therefore:
+
+Governance Competition
+requires
+Effective Exitability + Interoperability
+
+### Governance and Fragility
+
+A broader working principle is:
+
+Governance Authority
+↔
+Fragility Responsibility
+
+The greater the ability of an institution to determine redistribution
+paths, the greater the responsibility it should retain for fragility
+created by those decisions.
+
+### State Transition
+
+The current research hypothesis is therefore not:
+
+State
+→ No State
+
+but:
+
+Territorial Monopoly of Economic Governance
+→
+Layered Polycentric Governance
+
+The State may remain a critical territorial foundation, rights
+guarantor, enforcement layer, systemic backstop, and participant in
+meta-governance while losing its historical monopoly over the economic
+governance of increasingly extraterritorial systems.
