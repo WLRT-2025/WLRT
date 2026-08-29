@@ -788,3 +788,110 @@ Redistribution Capability of underlying real systems.
 
 **Boundary**  
 To be investigated.
+
+## Knowledge-Derived Capability
+
+**Function**
+
+Knowledge-derived capability allows knowledge to produce economic function
+for another participant without requiring transfer of the underlying
+knowledge.
+
+Conceptually:
+
+Knowledge
+→ Architecture
+→ Capability
+→ Outcome
+
+This can separate:
+
+Knowledge Ownership
+
+from:
+
+Capability Access.
+
+**Benefit**
+
+Knowledge-derived capability can:
+
+- scale expert knowledge;
+- expand effective reachable state spaces;
+- provide advanced capabilities to smaller independent resource owners;
+- separate asset ownership from specialized expertise;
+- support Capability Growth without proportional Material Growth;
+- allow repeated use of non-rival knowledge;
+- reduce the need to reproduce specialized expertise inside every
+  organization.
+
+**Fragility**
+
+The architecture can create:
+
+- Knowledge Dependency;
+- Capability Concentration;
+- Capability Gatekeeping;
+- low Effective Exitability;
+- Knowledge Capability Concentration Loops;
+- opaque governance;
+- critical capability nodes;
+- capability congestion;
+- mismatch between knowledge scalability and opportunity scalability.
+
+Distributed ownership may coexist with highly concentrated capability control.
+
+**Boundary**
+
+Knowledge-derived capability approaches its systemic boundary when the
+additional capability it creates is outweighed by:
+
+- dependency;
+- concentration;
+- loss of substitutability;
+- reduced exitability;
+- governance opacity;
+- congestion;
+- environmental feedback;
+- restriction of independent redistribution paths.
+
+Protection of knowledge also approaches its boundary when restrictions on
+capability diffusion reduce system-level adaptive capacity more than they
+support creation of new knowledge.
+
+**Potential Replacement / Extension**
+
+The transition is not:
+
+Knowledge Ownership
+→
+No Knowledge Ownership
+
+but potentially:
+
+Knowledge Ownership
+→
+Knowledge Ownership + Capability Access
+→
+Distributed Asset Ownership + External Capability Layers
+
+with safeguards based on:
+
+Asset Separation
+
+Effective Exitability
+
+Governance Transparency
+
+Capability Substitutability
+
+The relevant future topology may therefore include both:
+
+Ownership Topology
+
+and:
+
+Capability Topology.
+
+**Status:** HYPOTHESIS / DEVELOPING
+
