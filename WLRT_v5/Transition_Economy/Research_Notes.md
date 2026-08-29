@@ -1443,3 +1443,68 @@ or:
 R_continue > R_restructure
 
 a meaningful and measurable distinction?
+
+## OPEN QUESTION-21 — Intervention Boundary
+
+How can the systemic benefit of government intervention be compared with
+its full costs, including incentive distortion, future obligations,
+fragility transfer, concentration, and reduced decentralized selection?
+
+---
+
+## OPEN QUESTION-22 — Compensation vs Political Redistribution
+
+How can WLRT distinguish intervention that preserves a necessary
+systemic function from intervention that primarily redirects resources
+toward politically connected actors?
+
+---
+
+## OPEN QUESTION-23 — Governance Boundary Detection
+
+Can Redistribution Connectivity and dependency topology be used to
+identify the economically relevant boundary of a system independently
+of territorial jurisdiction?
+
+---
+
+## OPEN QUESTION-24 — Governance Layer Assignment
+
+Which functions should remain territorial, which should become
+functional or ecosystem-based, and which require meta-governance?
+
+---
+
+## OPEN QUESTION-25 — Effective Exitability
+
+Can Effective Exitability be operationalized without reducing it to
+formal legal exit?
+
+How should switching cost, portability, dependency, and interoperability
+be incorporated?
+
+---
+
+## OPEN QUESTION-26 — Polycentric Coordination Cost
+
+At what point does additional boundary matching create more coordination
+cost than systemic benefit?
+
+---
+
+## OPEN QUESTION-27 — Legitimacy of Extraterritorial Governance
+
+What gives a non-territorial economic governance system legitimate
+authority over participants?
+
+How should representation, appeal, transparency, and accountability be
+structured?
+
+---
+
+## OPEN QUESTION-28 — Public Backstop Boundary
+
+If an ecosystem enjoys substantial internal governance autonomy, under
+what conditions should territorial government remain responsible for
+its failure?
+
