@@ -426,6 +426,202 @@ This question may be relevant to the WLRT principle of scale
 invariance but should not be treated as derived from it without
 additional analysis.
 
+## HYPOTHESIS-22 — Credit as Intertemporal Redistribution
+
+Credit can be interpreted as a mechanism of intertemporal
+redistribution.
+
+It allows present economic actors to obtain access to resources on
+the basis of expected future economic capacity.
+
+Conceptually:
+
+Future Capacity
+→ Present Access
+
+In exchange, the future system receives an obligation:
+
+Present Access
+→ Future Constraint
+
+Credit therefore redistributes economic capability not only between
+agents but also between different states of the system through time.
+
+---
+
+## HYPOTHESIS-23 — Future-State Constraint
+
+Credit expands the action space available to the present system while
+constraining part of the action space available to future states.
+
+Conceptually:
+
+Ω_future(debt) ⊆ Ω_future
+
+This does not imply that credit is inherently harmful.
+
+The present receives additional adaptive or productive capacity in
+exchange for committing part of future redistribution capacity.
+
+The relevant question is therefore not whether debt exists, but how
+much future optionality is consumed by the obligation created today.
+
+---
+
+## HYPOTHESIS-24 — Debt as a Claim on Future Redistribution
+
+Debt can be interpreted not only as a financial liability but also as
+a claim on future redistribution flows.
+
+Conceptually:
+
+Debt(t)
+→ Claim on Future Redistribution Capacity
+
+This interpretation may help distinguish systems with similar
+financial leverage but substantially different adaptive capacities.
+
+The same nominal debt burden may have very different systemic effects
+depending on redundancy, liquidity, dependency structure, flexibility,
+and available redistribution paths.
+
+---
+
+## HYPOTHESIS-25 — Intertemporal Phase Mismatch
+
+Credit obligations are created in one system state and may remain in
+force after the system has moved into another phase.
+
+Conceptually:
+
+Obligation created in Φ(A)
++
+Transition Φ(A) → Φ(B)
++
+Persistent Obligation
+→ Potential Fragility
+
+Calendar maturity therefore does not fully describe the temporal
+structure of debt.
+
+A credit contract also implicitly spans an uncertain sequence of
+phase states.
+
+This provisional phenomenon is referred to as:
+
+Intertemporal Phase Mismatch.
+
+The term is exploratory and is not currently canonical WLRT
+terminology.
+
+---
+
+## HYPOTHESIS-26 — Debt Fragility Loop
+
+Refinancing can preserve a viable system during a temporary
+disturbance.
+
+However, if underlying Redistribution Capability is already declining,
+additional debt may create a reinforcing fragility loop:
+
+Declining Redistribution Capability
+→ Additional Debt
+→ Additional Future Constraints
+→ Further Decline in Redistribution Capability
+→ Additional Debt
+
+The distinction between liquidity support and preservation of a
+structurally declining system therefore requires further research.
+
+---
+
+## HYPOTHESIS-27 — Adaptive Credit
+
+The useful intertemporal function of credit may potentially be
+preserved while making some obligations more responsive to changes in
+system state.
+
+A possible transition is:
+
+Fixed Obligation
+→ State-Responsive Obligation
+
+Possible architectures may include:
+
+- contingent obligations;
+- adaptive maturities;
+- state-dependent repayment structures;
+- automatic restructuring mechanisms;
+- explicit risk sharing between creditor and borrower.
+
+The objective is not maximum flexibility.
+
+An adaptive credit architecture must preserve both:
+
+Commitment
++
+Adaptive Capacity
+
+Otherwise adaptation may destroy the responsibility and selection
+functions provided by credit.
+
+---
+
+## HYPOTHESIS-28 — Debt Sustainability as Preservation of Adaptive Capacity
+
+Conventional debt sustainability asks whether expected cash flow is
+sufficient to service debt.
+
+A broader state-space interpretation may ask whether debt service
+leaves sufficient Redistribution Capability for continued adaptation.
+
+Conceptually:
+
+Debt Sustainability
+≠
+Debt Service Capacity Alone
+
+A stronger condition may require:
+
+R_after_debt ≥ R_min
+
+where the precise meaning and measurement of this relationship remain
+to be developed.
+
+This is currently a conceptual hypothesis rather than a formal WLRT
+criterion.
+
+---
+
+## HYPOTHESIS-29 — Credit and Trajectory Cost
+
+The systemic cost of credit may include more than interest and direct
+financial charges.
+
+Credit may also consume future optionality by restricting admissible
+future trajectories.
+
+Conceptually:
+
+Credit Cost
+=
+Financial Cost
++
+Trajectory Cost
+
+This is not currently proposed as a formal equation.
+
+It expresses the hypothesis that apparently inexpensive financing may
+be systemically expensive if its contractual structure substantially
+reduces future adaptive freedom.
+
+In compact form:
+
+Cheap Money
+≠
+Cheap Future
+
+
 ## OBSERVATION-01 — Ownership, Participation, and Control
 
 Contemporary systems increasingly separate:
