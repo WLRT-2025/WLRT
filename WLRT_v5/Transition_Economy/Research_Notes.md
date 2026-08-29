@@ -914,6 +914,311 @@ about:
 This is a working transitional hypothesis, not a claim that such a
 historical phase must occur.
 
+## HYPOTHESIS-39 — State as Systemic Compensation Node
+
+The State (Government) can act as a system-level Compensation node.
+
+When decentralized actors cannot create sufficient Compensation within
+the required time horizon, government can mobilize resources across
+subsystems to prevent local fragility from producing a system-wide
+cascade.
+
+Conceptually:
+
+Local Compensation Capacity < Required Compensation
+→ Government Mobilization
+→ Systemic Compensation
+
+This function does not imply that government intervention is always
+systemically beneficial.
+
+The source of Compensation and its effects on other subsystems must
+also be considered.
+
+---
+
+## HYPOTHESIS-40 — Political Redistribution Loop
+
+Government redistribution can create a feedback loop in which access
+to political or administrative authority becomes a source of economic
+advantage.
+
+Conceptually:
+
+Political Access
+→ Preferential Redistribution
+→ Economic Power
+→ Institutional Influence
+→ Greater Political Access
+
+This mechanism does not require illegal corruption.
+
+It may operate through legal subsidies, regulatory exemptions,
+procurement, guarantees, licensing, taxation, or other allocation
+mechanisms.
+
+---
+
+## HYPOTHESIS-41 — Efficiency Substitution
+
+Economic actors may rationally shift resources away from productive
+adaptation when obtaining access to redistribution produces a higher
+return than improving productive efficiency.
+
+Conceptually:
+
+Return(Access) > Return(Efficiency)
+
+may produce:
+
+Resources
+→ Allocation Capture
+
+rather than:
+
+Resources
+→ Productivity / Innovation / Adaptation
+
+This represents a change in the optimization landscape rather than
+simply undesirable individual behavior.
+
+---
+
+## HYPOTHESIS-42 — Allocation Capture Efficiency
+
+Economic efficiency should be distinguished from the ability to obtain
+resources through existing redistribution channels.
+
+Productive Efficiency measures the ability to create outcomes from
+resources.
+
+Allocation Capture Efficiency measures the ability to obtain control
+over resources allocated by other actors or institutions.
+
+When:
+
+Return(Capture) > Return(Production)
+
+selection pressure may increasingly favor access to redistribution
+authority rather than productive adaptation.
+
+---
+
+## HYPOTHESIS-43 — Hidden Fragility
+
+Government intervention may reduce observed local risk without reducing
+underlying systemic fragility.
+
+Conceptually:
+
+Observed Fragility(A) ↓
+
+while:
+
+Systemic Fragility ≈ constant
+
+or:
+
+Systemic Fragility ↑
+
+Government guarantees, refinancing, bailouts, or other support may
+therefore obscure fragility while transferring it to another carrier.
+
+Fragility Compensation and Fragility Transfer must be distinguished.
+
+---
+
+## HYPOTHESIS-44 — Phase-Dependent Government
+
+The optimal economic role of government may depend on system phase.
+
+A provisional structure is:
+
+Normal Phase
+→ Rules + Diagnostics + Infrastructure
+
+Stress Phase
+→ Temporary Compensation + Cascade Prevention
+
+Resolution Phase
+→ Restructuring + Continuity Protection
+
+Recovery Phase
+→ Exit + Restoration of Decentralized Selection
+
+A constant level or type of intervention across all phases may therefore
+be structurally inappropriate.
+
+---
+
+## HYPOTHESIS-45 — Function-Based Public Support
+
+Public intervention may create less selection distortion when it
+supports a required systemic function rather than a predetermined
+institution.
+
+Conceptually:
+
+Support(Systemic Function)
+
+may be preferable to:
+
+Support(Incumbent Node)
+
+when several actors can potentially provide the same required function.
+
+This may preserve Compensation while reducing Selection by Access.
+
+---
+
+## HYPOTHESIS-46 — Regulatory Topology Mismatch
+
+The boundaries of territorial government increasingly differ from the
+boundaries of many economic systems.
+
+Conceptually:
+
+Boundary(Government)
+≠
+Boundary(Economic System)
+
+when economic processes are organized through transnational networks,
+platforms, financial systems, supply chains, digital infrastructure,
+or other extraterritorial structures.
+
+This mismatch may produce both regulatory blind spots and fragmented
+over-regulation.
+
+---
+
+## HYPOTHESIS-47 — Boundary-Matched Governance
+
+An economic function may be governed most effectively by the governance
+layer whose boundary best matches the space of its material consequences
+and dependencies.
+
+Possible layers include:
+
+Territorial Governance
+
+Functional Governance
+
+Ecosystem Governance
+
+Meta-Governance
+
+The objective is not maximum decentralization but improved alignment
+between governance topology and system topology.
+
+---
+
+## HYPOTHESIS-48 — Governance Authority and Fragility Responsibility
+
+Authority over redistribution architecture should be linked to
+responsibility for the fragility created by that architecture.
+
+Conceptually:
+
+Governance Authority
+↔
+Fragility Responsibility
+
+This principle may apply to governments, corporations, platforms,
+networks, and economic ecosystems.
+
+---
+
+## HYPOTHESIS-49 — Internalize What You Govern
+
+Greater governance autonomy should require greater internalization of
+the consequences created by that governance.
+
+Conceptually:
+
+Governance Autonomy ↑
+requires
+Fragility Internalization ↑
+
+Otherwise a governance system may preserve private upside while
+externalizing systemic downside.
+
+---
+
+## HYPOTHESIS-50 — Effective Exitability
+
+Formal permission to leave a governance system does not necessarily
+constitute meaningful exit.
+
+Effective Exitability depends on the portability of:
+
+- assets;
+- data;
+- rights;
+- identity;
+- accumulated benefits;
+- economic activity.
+
+High switching costs or dependency may reduce Effective Exitability
+even when formal exit remains possible.
+
+---
+
+## HYPOTHESIS-51 — Polycentric Governance
+
+Future economic governance may evolve from territorial monopoly toward
+a layered polycentric architecture.
+
+Conceptually:
+
+Territorial Governance
++
+Functional Governance
++
+Ecosystem Governance
++
+Meta-Governance
+
+This does not imply disappearance of the State.
+
+Territorial government may remain essential for physical security,
+basic rights, enforcement, physical infrastructure, systemic backstop,
+and parts of meta-governance.
+
+---
+
+## HYPOTHESIS-52 — Functional Separation of Government Power
+
+Government functions need not necessarily remain institutionally
+concentrated.
+
+The following functions can be analytically separated:
+
+Diagnostics
+
+Boundary Setting
+
+Allocation
+
+Compensation
+
+Enforcement
+
+Audit
+
+Potential conflicts arise when:
+
+Rule Setter
+=
+Allocator
+=
+Evaluator
+=
+Auditor
+
+Functional separation may reduce Political Redistribution Loops and
+Selection by Access.
+
+
 ## OBSERVATION-01 — Ownership, Participation, and Control
 
 Contemporary systems increasingly separate:
