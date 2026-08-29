@@ -135,6 +135,32 @@ This creates a central research question:
 
 ---
 
+## 3.1 Emerging General Principle
+
+Analysis of price, capital, profit, competition, ownership, credit, and
+bankruptcy suggests a recurring structural pattern.
+
+Each mechanism performs a useful local function.
+
+The systemic problem appears when successful execution of that local
+function begins to critically reduce the system's ability to perform
+subsequent redistribution.
+
+A candidate general principle is therefore:
+
+> An economic mechanism remains systemically functional while the
+> execution of its local function does not critically impair the
+> system's capability for subsequent redistribution.
+
+This proposition remains under investigation.
+
+It is not yet treated as a canonical principle of WLRT.
+
+The remaining mechanisms must be examined before determining whether
+the proposition can be generalized.
+
+___
+
 # 4. Method of Structural Decomposition
 
 Each major mechanism is analyzed through the sequence:
