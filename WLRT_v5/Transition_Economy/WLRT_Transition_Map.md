@@ -565,6 +565,35 @@ entire architecture.
 
 ---
 
+### Terminology Safeguard: "State-Aware"
+
+In this document, "State-Aware" refers to awareness of the **state of the
+economic system**.
+
+It does not refer to increased control by the political State or Government.
+
+Therefore:
+
+State-Aware Capitalism
+≠
+State-Controlled Capitalism
+
+The intended transition is:
+
+Price / Profit / Capital Signals
+
++
+
+System-State Diagnostics
+
+rather than:
+
+Decentralized Coordination
+→
+Central Administrative Allocation
+
+___
+
 # 11. What Must Be Preserved
 
 Any successor architecture must be tested against the functions that
