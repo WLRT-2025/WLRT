@@ -1697,4 +1697,55 @@ structured?
 If an ecosystem enjoys substantial internal governance autonomy, under
 what conditions should territorial government remain responsible for
 its failure?
+## OPEN QUESTION-29 — Capability Valuation
+
+How should access to knowledge-derived capability be valued?
+
+Should compensation depend on access, scale, usage, outcome, risk sharing, or
+some combination of these factors?
+
+---
+
+## OPEN QUESTION-30 — Distribution of Relational Output
+
+How should economic results be distributed when output is jointly produced by
+capital, knowledge, architecture, execution, infrastructure, and risk bearing?
+
+---
+
+## OPEN QUESTION-31 — Capability Dependency
+
+How can augmented capability be distinguished from dependency on a critical
+external capability provider?
+
+---
+
+## OPEN QUESTION-32 — Capability Topology
+
+Can the concentration, substitutability, and criticality of capability
+providers be incorporated into the analysis of Topological Fragility?
+
+---
+
+## OPEN QUESTION-33 — Knowledge Protection Boundary
+
+At what point does protection of returns to knowledge creation reduce the
+diffusion of useful capability more than it stimulates creation of new
+capability?
+
+---
+
+## OPEN QUESTION-34 — Capability Scalability
+
+Which parts of knowledge-derived capability remain scale-invariant, and which
+become scale-dependent because of congestion, market impact, infrastructure,
+or environmental feedback?
+
+---
+
+## OPEN QUESTION-35 — Capability Access and Redistribution Capability
+
+Can access to knowledge-derived capability be incorporated into the analysis
+of Redistribution Capability without confusing access to capability with
+ownership of knowledge?
 
