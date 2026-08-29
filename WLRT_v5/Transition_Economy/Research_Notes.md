@@ -494,3 +494,67 @@ need for universal price signals?
 
 What are the phase-transition criteria between a capital-dominant and
 a Redistribution-Capability-dominant system?
+
+## OPEN QUESTION-10 — Governance of State-Aware Systems
+
+Who determines system state and admissible trajectories in a
+State-Aware Economy?
+
+Possible mechanisms include:
+
+- state institutions;
+- decentralized institutions;
+- markets;
+- scientific or technical protocols;
+- algorithmic systems;
+- combinations of these mechanisms.
+
+How can state constraints be introduced without transforming
+diagnostic coordination into centralized planning?
+
+---
+
+## OPEN QUESTION-11 — Structural vs Normative Constraints
+
+Which boundaries can be derived from observable system properties,
+and which boundaries necessarily represent normative social choices?
+
+WLRT must not present political, ethical, or distributive preferences
+as if they were physically or structurally determined properties of
+the system.
+
+A distinction must therefore be maintained between:
+
+Structural / Physical Constraints
+
+and:
+
+Normative Constraints
+
+---
+
+## OPEN QUESTION-12 — Construction of Admissible Boundaries
+
+What properties must Ω_admissible possess for decentralized freedom
+inside it to increase rather than decrease Redistribution Capability?
+
+How should these boundaries adapt as the environment and the system
+state change?
+
+---
+
+## OPEN QUESTION-13 — Institutional Lock-In
+
+How can an economic architecture transition when accumulated capital
+can influence the institutions that determine the rules of transition?
+
+A possible feedback loop is:
+
+Capital
+→ Institutional Influence
+→ Rules
+→ Protection of Capital
+→ Capital
+
+This may create structural resistance to phase transition even when
+alternative architectures become functionally superior.
