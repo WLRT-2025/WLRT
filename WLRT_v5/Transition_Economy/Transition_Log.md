@@ -551,3 +551,246 @@ When does state intervention genuinely increase system-level
 Redistribution Capability, and when does it merely move or postpone
 fragility?
 
+---
+
+## 2026-08-29 — Research Checkpoint 0.4
+
+### State and Polycentric Governance
+
+The State (Government) was analyzed not as a single economic mechanism
+but as a combination of several functions:
+
+Rule Architecture
++
+Enforcement
++
+Compensation
++
+Redistribution
++
+Infrastructure
++
+Systemic Backstop
+
+### State as Compensation Node
+
+Government can mobilize resources across subsystems when decentralized
+actors cannot create sufficient Compensation within the required time
+horizon.
+
+This may allow the State to prevent local fragility from producing a
+system-wide cascade.
+
+However, Compensation must be evaluated at the system level.
+
+Resources used to stabilize one subsystem are taken from or committed
+against other parts of the system.
+
+Therefore:
+
+Local Stabilization
+does not necessarily imply
+Systemic Fragility Reduction.
+
+### Selection by Access
+
+A major systemic risk of government redistribution was identified.
+
+Normal decentralized selection may operate through:
+
+Performance
+→ Resources
+
+Government redistribution can create:
+
+Access to Authority
+→ Resources
+
+When:
+
+Return(Access) > Return(Efficiency)
+
+economic actors may rationally shift resources away from productivity,
+innovation, and adaptation toward Allocation Capture.
+
+### Political Redistribution Loop
+
+A possible feedback mechanism was identified:
+
+Political Access
+→ Preferential Redistribution
+→ Economic Power
+→ Institutional Influence
+→ Greater Political Access
+
+This process does not require illegal corruption.
+
+It may emerge through formally legal redistribution mechanisms.
+
+### Fragility Transfer
+
+Government intervention may reduce fragility in one subsystem while
+moving it to another.
+
+Therefore:
+
+Fragility Compensation
+≠
+Fragility Transfer
+
+Government guarantees and stabilization mechanisms may also create
+Hidden Fragility when observed local risk falls while underlying
+systemic fragility remains unchanged or increases.
+
+### Function-Based Support
+
+A distinction was introduced between:
+
+Support(Incumbent)
+
+and:
+
+Support(Systemic Function)
+
+Supporting a required system function rather than a predetermined actor
+may preserve Compensation while reducing Selection by Access.
+
+### Phase-Dependent Government
+
+A provisional phase-dependent government architecture was identified:
+
+Normal Phase
+→ Rules + Diagnostics + Infrastructure
+
+Stress Phase
+→ Temporary Compensation + Cascade Prevention
+
+Resolution Phase
+→ Restructuring + Continuity Protection
+
+Recovery Phase
+→ Exit + Restoration of Decentralized Selection
+
+Temporary intervention should therefore contain:
+
+Trigger
+→ Intervention
+→ State Test
+→ Exit
+
+### Territorial Governance Boundary
+
+A further structural problem was identified.
+
+Modern government is primarily territorial:
+
+Territory
+→ Jurisdiction
+
+while an increasing number of economic systems are organized through
+exterritorial networks.
+
+This creates:
+
+Boundary(Government)
+≠
+Boundary(Economic System)
+
+and may produce Regulatory Topology Mismatch.
+
+### Boundary-Matched Governance
+
+A provisional alternative architecture was introduced:
+
+Territorial Governance
++
+Functional Governance
++
+Ecosystem Governance
++
+Meta-Governance
+
+The objective is not maximum decentralization.
+
+The objective is improved alignment between the boundary of governance
+and the topology of the system being governed.
+
+### Governance Responsibility
+
+Two related working principles were introduced:
+
+Governance Authority
+↔
+Fragility Responsibility
+
+and:
+
+Governance Autonomy
+↔
+Fragility Internalization
+
+A governance system should not retain decision autonomy while
+systematically externalizing the fragility produced by its decisions.
+
+### Effective Exitability
+
+Formal exit from an ecosystem is insufficient.
+
+Meaningful governance competition requires portability of:
+
+- assets;
+- rights;
+- data;
+- identity;
+- accumulated benefits;
+- economic activity.
+
+Therefore:
+
+Governance Competition
+requires
+Effective Exitability + Interoperability
+
+### Emerging Governance Transition
+
+The current research direction is not:
+
+State
+→ No State
+
+but:
+
+Territorial Monopoly of Economic Governance
+→
+Layered Polycentric Governance
+
+The territorial State may remain essential for physical security,
+rights protection, public enforcement, physical infrastructure,
+systemic backstop, and meta-governance while becoming one governance
+layer among several.
+
+### Terminology Safeguard
+
+"State-Aware Capitalism" refers to awareness of system state.
+
+It must not be interpreted as capitalism characterized by increased
+political State control.
+
+### Next Research Step
+
+Growth.
+
+The next mechanism to examine is economic growth itself.
+
+The central questions are:
+
+- Which functions does growth currently perform beyond increasing
+  output?
+- Why does contemporary capital-centered architecture appear to require
+  continuing growth?
+- Can a system remain dynamically stable without continuous aggregate
+  expansion?
+- What happens to debt, profit, employment, public finance, and
+  redistribution when growth slows?
+- Can Redistribution Capability provide a different criterion from
+  aggregate growth?
