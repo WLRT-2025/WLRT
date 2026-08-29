@@ -1,0 +1,472 @@
+# WLRT Transition Map
+
+## From a Capital-Centric Economy toward a Redistribution-Capability Economy
+
+**Status:** Developing Research Map
+
+---
+
+## 0. Research Question
+
+The contemporary global economy is neither a pure market system nor
+pure capitalism.
+
+It is a hybrid architecture combining:
+
+- private capital;
+- markets;
+- fiat money;
+- credit;
+- state redistribution;
+- corporate planning;
+- financial markets;
+- digital platforms;
+- increasingly algorithmic coordination.
+
+The central question of this research branch is:
+
+> What economic architecture may emerge if the structural limits of
+> the contemporary capital-centered system become increasingly binding,
+> and can Wave Liquidity Redistribution Theory (WLRT) provide a roadmap
+> for this transition?
+
+The objective is not to construct an ideological alternative to
+capitalism.
+
+The objective is to identify which functions of the existing system
+must be preserved, which mechanisms generate increasing systemic
+fragility, and which alternative mechanisms may preserve useful
+functions while reducing that fragility.
+
+---
+
+# 1. Starting Point: The Contemporary Economic System
+
+The present global economy can be provisionally described as a:
+
+> global mixed monetary-market economy based on private capital,
+> state stabilization, credit money, institutional redistribution,
+> and an expanding algorithmic coordination layer.
+
+Its major mechanisms include:
+
+- price;
+- money;
+- capital;
+- profit;
+- ownership;
+- credit;
+- labour;
+- competition;
+- bankruptcy;
+- state stabilization;
+- economic growth;
+- financial markets.
+
+Money remains the principal universal interface connecting many of
+these mechanisms.
+
+---
+
+# 2. Initial Structural Observation
+
+Capital-centered economic organization is highly effective at solving
+a fundamental coordination problem:
+
+> How can large numbers of independent agents allocate resources
+> without continuous centralized control?
+
+Historically, the system developed a powerful combination:
+
+Ownership
++ Price
++ Money
++ Profit
++ Competition
+
+This architecture created strong mechanisms for:
+
+- decentralized decision-making;
+- information compression;
+- innovation;
+- capital allocation;
+- risk taking;
+- scaling;
+- adaptation.
+
+The research therefore does not treat capitalism as simply defective.
+
+Its strengths must be preserved wherever they remain functional.
+
+---
+
+# 3. Central Structural Tension
+
+Capital normally enters an economic process with an expectation of
+reproduction:
+
+C(t) → economic process → C(t+1)
+
+with the expected condition:
+
+C(t+1) > C(t)
+
+A complex adaptive system, however, faces another requirement:
+
+> It must preserve sufficient capability to continue redistribution
+> across future states and phase transitions.
+
+These objectives can coincide.
+
+They do not necessarily coincide.
+
+A locally profitable process may:
+
+- reduce redundancy;
+- externalize fragility;
+- consume future flexibility;
+- concentrate access;
+- narrow admissible future trajectories.
+
+This creates a central research question:
+
+> Under what conditions does capital accumulation cease to improve,
+> or begin to reduce, the Redistribution Capability of the wider system?
+
+---
+
+# 4. Method of Structural Decomposition
+
+Each major mechanism is analyzed through the sequence:
+
+Function
+→ Benefit
+→ Fragility
+→ Boundary
+→ Replacement
+
+Where:
+
+**Function**  
+What systemic problem does the mechanism solve?
+
+**Benefit**  
+Why has the mechanism been successful?
+
+**Fragility**  
+What fragility does it create, conceal, concentrate, or transfer?
+
+**Boundary**  
+Under what conditions does the benefit cease to compensate for the
+generated fragility?
+
+**Replacement**  
+Can the function be preserved through another mechanism or through a
+broader architecture?
+
+Replacement does not necessarily mean elimination.
+
+The objective is functional transformation rather than ideological
+destruction.
+
+---
+
+# 5. First Mechanism: Price
+
+## 5.1 Function
+
+Price provides an extremely efficient mechanism for compressing
+information.
+
+It allows heterogeneous goods, services, labour, resources, and
+expectations to be compared through a common coordinate.
+
+Price therefore dramatically reduces coordination complexity.
+
+## 5.2 Structural Boundary
+
+Price does not provide a complete description of system state.
+
+In compact form:
+
+P ≠ State
+
+Price can represent the conditions under which exchange is currently
+possible while failing to describe:
+
+- systemic fragility;
+- resource reproducibility;
+- reversibility;
+- concentration of risk;
+- future trajectory loss;
+- redistribution capability;
+- phase position.
+
+The structural problem may therefore be deeper than the classical
+problem of externalities.
+
+Price is a one-dimensional projection of a multidimensional system
+state.
+
+## 5.3 Preliminary Transition
+
+The working transition hypothesis is not:
+
+Price → No Price
+
+but:
+
+Price Dominance
+→ Price + State Diagnostics
+→ State-Constrained Decisions
+
+Price may remain visible to individual agents while higher-level
+economic decisions increasingly incorporate additional information
+about system state.
+
+A conceptual representation may include:
+
+P + R + F + C + Φ
+
+where the exact formal definitions and relationships remain subject
+to further research.
+
+---
+
+# 6. Money and the Moneyless Boundary
+
+An earlier branch of the investigation examined whether a global
+economy could function without money.
+
+The current working position is:
+
+- liquidity is not identical to money;
+- money is one carrier and coordination mechanism of liquidity;
+- strictly moneyless economic subsystems are possible;
+- local access, quota, allocation, and participation systems can
+  operate without a universal monetary equivalent;
+- a completely moneyless global economy is not currently the primary
+  working hypothesis.
+
+Money performs important functions including:
+
+- coordination;
+- information compression;
+- temporal transfer of obligations;
+- access routing;
+- buffering of asynchronous economic processes.
+
+Therefore the relevant research question is not simply whether money
+should disappear.
+
+It is:
+
+> Which functions currently performed by money can be performed more
+> effectively by other mechanisms?
+
+The likely transition architecture is therefore hybrid.
+
+---
+
+# 7. Labour and Participation
+
+A second preliminary research direction concerns the relationship
+between labour, income, and access.
+
+The contemporary architecture largely retains the chain:
+
+Labour
+→ Income
+→ Money
+→ Access to Resources
+
+Automation and artificial intelligence may weaken the relationship:
+
+Human Labour
+↔ Production
+
+while the relationship:
+
+Human Labour
+↔ Income
+
+remains institutionally important.
+
+This may produce a structural mismatch between the production system
+and the distribution system.
+
+A future architecture may therefore require a broader category of:
+
+Participation
+
+rather than employment alone.
+
+This proposition remains under development.
+
+---
+
+# 8. Access as a Fundamental Economic Question
+
+A major question emerging from the research is:
+
+> What constitutes a legitimate and operational basis for access to
+> resources?
+
+Possible mechanisms include:
+
+- labour;
+- capital ownership;
+- monetary purchasing power;
+- participation;
+- need;
+- citizenship or membership;
+- contribution to systemic stability;
+- combinations of these mechanisms.
+
+This question may be more fundamental than the binary distinction
+between capitalism and post-capitalism.
+
+---
+
+# 9. Preliminary Transition Architecture
+
+A possible long-term transition is currently represented as:
+
+Capital-Centric Economy
+↓
+Hybrid Transition Architecture
+↓
+Redistribution-Capability Economy
+
+A more detailed provisional phase sequence is:
+
+## Phase I — Capital Dominance
+
+Price, profit, capital accumulation, and monetary income remain the
+principal economic coordinates.
+
+## Phase II — Diagnostic Extension
+
+Price and financial performance are supplemented by diagnostics of
+fragility, resilience, redistribution capability, environmental
+constraints, and system trajectory.
+
+## Phase III — Parallel Redistribution Architectures
+
+Some allocation functions increasingly operate through mechanisms
+other than direct monetary exchange.
+
+Examples may include:
+
+- programmable access;
+- algorithmic allocation;
+- quotas;
+- infrastructure rights;
+- non-monetary service access;
+- decentralized protocols.
+
+## Phase IV — Participation Economy
+
+Economic access and economic result become less exclusively dependent
+on ownership of capital or sale of labour time.
+
+Multiple forms of participation become economically relevant.
+
+## Phase V — Redistribution-Capability Dominance
+
+The preservation of viable future redistribution trajectories becomes
+a major criterion of system performance.
+
+This does not imply the disappearance of:
+
+- money;
+- markets;
+- private ownership;
+- profit;
+- entrepreneurship.
+
+These may remain operational mechanisms while ceasing to define the
+entire architecture.
+
+---
+
+# 10. What Must Be Preserved
+
+Any successor architecture must be tested against the functions that
+made capitalism adaptive.
+
+Candidates for preservation include:
+
+- decentralized decision-making;
+- information discovery;
+- entrepreneurial experimentation;
+- innovation;
+- local risk taking;
+- local failure and bankruptcy;
+- freedom of choice;
+- scalability;
+- rapid feedback.
+
+A transition that destroys these functions without replacing them
+would likely increase rather than reduce systemic fragility.
+
+---
+
+# 11. Relationship to Beyond the Price
+
+The research direction is consistent with the central conceptual
+movement developed in *Beyond the Price*:
+
+> Price is important, but price alone does not describe the full state
+> of a complex adaptive system.
+
+The transition research extends this proposition from diagnosis toward
+economic architecture.
+
+The emerging question is no longer only:
+
+> What is the price?
+
+but also:
+
+> What does this economic action do to the future state space of the
+> system?
+
+---
+
+# 12. Open Research Areas
+
+The following areas remain open:
+
+1. Capital and profit.
+2. Ownership.
+3. Credit and intertemporal fragility.
+4. Competition and redundancy.
+5. Bankruptcy and local fragility release.
+6. State stabilization and macro-level LFI.
+7. Growth and physical constraints.
+8. Financial markets and real-system liquidity.
+9. Labour and non-coercive participation.
+10. Artificial intelligence as an economic agent.
+11. Monetary and non-monetary access architectures.
+12. Measurement of Redistribution Capability.
+13. Phase-transition criteria.
+14. Governance of a Redistribution-Capability Economy.
+
+---
+
+# 13. Current Status
+
+This document is a research map.
+
+It does not claim that a Redistribution-Capability Economy is an
+inevitable successor to capitalism.
+
+The purpose of the research is to determine whether such an
+architecture:
+
+1. can be derived consistently;
+2. preserves the useful functions of existing economic mechanisms;
+3. reduces identifiable sources of systemic fragility;
+4. can emerge through realistic transitional phases;
+5. can be described and tested using WLRT.
