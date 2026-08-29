@@ -753,4 +753,34 @@ Capital
 → Capital
 
 This may create structural resistance to phase transition even when
-alternative architectures become functionally superior.
+alternative architectures become functionally ## OPEN QUESTION-14 — Phase-Aware Credit
+
+Can credit structures incorporate phase changes without destroying the
+disciplining function of contractual commitment?
+
+How should risk be divided between borrower and creditor when the
+system moves into a state materially different from the state in which
+the obligation was created?
+
+---
+
+## OPEN QUESTION-15 — Debt and Admissible State Space
+
+How can the reduction of future admissible trajectories caused by debt
+be measured?
+
+Can debt sustainability be related to changes in the geometry of the
+Adaptive State Space rather than only to conventional leverage and
+cash-flow ratios?
+
+---
+
+## OPEN QUESTION-16 — Refinancing Boundary
+
+Under what conditions does refinancing preserve a viable system, and
+under what conditions does it merely transfer fragility further into
+the future?
+
+Can WLRT diagnostics distinguish these regimes before conventional
+default indicators become critical?
+
