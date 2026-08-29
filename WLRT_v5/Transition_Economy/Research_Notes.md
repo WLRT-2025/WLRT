@@ -621,6 +621,298 @@ Cheap Money
 ≠
 Cheap Future
 
+## HYPOTHESIS-30 — Bankruptcy as Trajectory Release
+
+Bankruptcy should not be interpreted only as financial failure.
+
+At the system level, bankruptcy may perform the function of releasing
+resources from a failed trajectory.
+
+Conceptually:
+
+Failed Future Commitment
+→ Release
+→ Resource Reallocation
+→ New Future Options
+
+A past allocation decision was made under assumptions about a future
+state.
+
+If that state does not materialize, indefinite preservation of the
+original obligations may reduce the system's ability to adapt.
+
+Bankruptcy may therefore restore part of the future optionality that
+was previously constrained by failed commitments.
+
+This does not imply that bankruptcy always increases Redistribution
+Capability.
+
+The release itself may destroy valuable structures if applied to a
+system that remains adaptively viable.
+
+---
+
+## HYPOTHESIS-31 — Commitment–Release Pair
+
+Credit and bankruptcy may be interpreted as complementary
+intertemporal mechanisms.
+
+Credit creates commitment:
+
+Future Capacity
+→ Present Access
+→ Future Obligation
+
+Bankruptcy or restructuring provides release:
+
+Failed Past Claim
+→ Release
+→ Reopened Future Options
+
+Together they form a systemic pair:
+
+Commitment
+↔
+Release
+
+An adaptive economic system requires both.
+
+Without commitment, long-horizon investment and credit coordination
+become difficult.
+
+Without release, failed decisions of the past may indefinitely
+constrain future system states.
+
+---
+
+## HYPOTHESIS-32 — Bankruptcy as Selection + Release
+
+Bankruptcy performs at least two distinct systemic functions:
+
+1. Selection
+
+Persistently unsuccessful structures can lose control over resources.
+
+2. Release
+
+Resources and future redistribution capacity can be released from
+obligations associated with failed trajectories.
+
+Conceptually:
+
+Bankruptcy
+=
+Selection
++
+Release
+
+The relative importance of these functions may differ across cases.
+
+---
+
+## HYPOTHESIS-33 — Systemic Viability vs Accounting Solvency
+
+Accounting solvency and systemic viability should not be treated as
+equivalent.
+
+A system may temporarily experience:
+
+Accounting Solvency ↓
+
+while retaining substantial:
+
+Redistribution Capability
+
+through technology, infrastructure, human capabilities, customer
+networks, liquidity pathways, or adaptive options.
+
+Conversely, an entity may remain formally solvent while its effective
+Redistribution Capability declines and its fragility increases.
+
+Therefore:
+
+Accounting Solvency
+≠
+Systemic Viability
+
+This distinction may be important for deciding whether a stressed
+economic structure should be preserved, restructured, or released.
+
+---
+
+## HYPOTHESIS-34 — Adaptive Resolution
+
+The response to economic failure need not be represented as a binary
+choice:
+
+Survive
+/
+Liquidate
+
+A more adaptive resolution architecture may include:
+
+Continue
+↔
+Restructure
+↔
+Split
+↔
+Transfer
+↔
+Liquidate
+
+The relevant systemic question becomes:
+
+Does the existing organization of resources preserve greater future
+Redistribution Capability than alternative organizations of the same
+resources?
+
+Conceptually, this may require comparison between:
+
+R_continue
+
+and:
+
+R_restructure
+
+The precise measurement and decision framework remain open research
+questions.
+
+---
+
+## HYPOTHESIS-35 — Stability as Failure Absorption
+
+Systemic stability should not necessarily be defined as the absence of
+individual failures.
+
+A more adaptive definition may be:
+
+Stability
+=
+Ability to Absorb Local Failure
+without Losing System Continuity
+
+A system in which no node is allowed to fail may accumulate more
+fragility than a system capable of absorbing local failure and
+redistributing released resources.
+
+This hypothesis changes the interpretation of bankruptcy from a purely
+negative event into a potentially necessary component of adaptive
+system stability.
+
+---
+
+## HYPOTHESIS-36 — Selection Failure under Concentration
+
+Capital concentration may progressively interfere with the bankruptcy
+mechanism.
+
+A possible sequence is:
+
+Competition
+→ Selection
+→ Concentration
+→ Systemic Importance
+→ Bankruptcy Suppression
+
+When an entity becomes systemically critical, its failure may threaten
+the continuity of the wider system.
+
+The normal negative-selection mechanism may then become politically or
+economically unacceptable.
+
+This can create an additional feedback loop:
+
+Bankruptcy Suppression
+→ Moral Hazard
+→ Further Concentration
+→ Greater Systemic Importance
+
+Successful competitive selection may therefore create structures for
+which one of capitalism's own selection mechanisms can no longer
+operate normally.
+
+---
+
+## HYPOTHESIS-37 — Fragility Transfer
+
+An intervention that reduces fragility in one part of a system does
+not necessarily reduce total systemic fragility.
+
+Fragility may instead be transferred between carriers.
+
+Conceptually:
+
+F(A) ↓
+
+while:
+
+F(B) ↑
+
+Possible transfer paths include:
+
+Firm
+→ Bank
+
+Bank
+→ State
+
+Private Sector
+→ Sovereign
+
+Sovereign
+→ Monetary System
+
+Firm
+→ Workers / Households
+
+This suggests a critical distinction:
+
+Fragility Compensation
+≠
+Fragility Transfer
+
+An intervention should therefore be evaluated not only by whether the
+original node becomes more stable, but also by where the associated
+fragility moves.
+
+---
+
+## HYPOTHESIS-38 — State-Aware Capitalism as Transitional Architecture
+
+A possible intermediate architecture between contemporary
+capital-centered organization and a Redistribution-Capability Economy
+is:
+
+State-Aware Capitalism
+
+Conceptually:
+
+Capitalism
+→ State-Aware Capitalism
+→ Redistribution-Capability Architecture
+
+In State-Aware Capitalism, major existing mechanisms remain present:
+
+- price;
+- profit;
+- capital;
+- private ownership;
+- competition;
+- credit;
+- bankruptcy.
+
+However, their operation is increasingly supplemented by information
+about:
+
+- system state;
+- fragility;
+- trajectory;
+- adaptive capacity;
+- Redistribution Capability.
+
+This is a working transitional hypothesis, not a claim that such a
+historical phase must occur.
 
 ## OBSERVATION-01 — Ownership, Participation, and Control
 
