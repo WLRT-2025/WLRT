@@ -734,6 +734,523 @@ Feedback
 
 remains viable under scaling is an open research question.
 
+# State and Polycentric Governance
+
+## Government as a Systemic Function
+
+The political State differs from mechanisms such as Price, Capital, Credit,
+or Profit because it can:
+
+- define binding rules;
+- enforce contracts;
+- constrain participant action;
+- forcibly redistribute resources;
+- mobilize collective Compensation;
+- provide infrastructure;
+- act as a systemic backstop.
+
+The relevant Transition Economy question is therefore not:
+
+State
+vs
+No State
+
+but:
+
+Which government functions are systemically necessary?
+
+and:
+
+At what point does intervention preserve Redistribution Capability, and at
+what point does it replace decentralized adaptation with political
+redistribution?
+
+---
+
+## Government as a Compensation Node
+
+Government can operate as a system-level Compensation node when local actors
+cannot create sufficient Compensation in time.
+
+Conceptually:
+
+Fragility_A ↑
+
+System Resources
+→
+A
+
+Compensation_A ↑
+
+This may prevent a local failure from becoming a systemic cascade.
+
+However, the source of Compensation matters.
+
+Public Compensation may be financed through:
+
+- taxation;
+- borrowing;
+- monetary expansion;
+- regulatory redistribution;
+- guarantees;
+- transfers from other parts of the system.
+
+Therefore the correct question is not only:
+
+What was stabilized?
+
+but also:
+
+Where did the Compensation come from?
+
+and:
+
+What happened to the Redistribution Capability of the source?
+
+---
+
+## Selection by Performance vs Selection by Access
+
+In decentralized competition, resources tend to move according to economic
+performance, however imperfectly.
+
+A stylized relation is:
+
+Economic Performance
+→
+Resource Access
+
+Government intervention may introduce another path:
+
+Political Access
+→
+Resource Allocation
+
+This can create a self-reinforcing loop:
+
+Political Access
+→
+Resources
+→
+Economic Scale
+→
+Greater Political Access
+
+If the expected return from improving access to allocation exceeds the return
+from improving productive efficiency, rational actors may increasingly invest
+in access.
+
+Conceptually:
+
+Return(Access)
+>
+Return(Efficiency)
+
+This creates **Selection by Access**.
+
+The problem is not public redistribution itself.
+
+The problem arises when access to the allocator becomes a stronger determinant
+of resource flows than the systemic function being financed.
+
+---
+
+## Systemic Compensation vs Political Reallocation
+
+Public intervention can have structurally different effects.
+
+### Systemic Compensation
+
+Private Return
+<
+Systemic Return
+
+The market may underprovide a function that preserves system-level
+Redistribution Capability.
+
+Examples may include:
+
+- infrastructure;
+- redundancy;
+- basic research;
+- emergency capacity;
+- systemic continuity functions.
+
+In such cases public intervention may increase:
+
+R_system
+
+### Political Reallocation
+
+Political Access
+→
+Resource Allocation
+
+without a corresponding increase in system-level capability.
+
+In this case intervention can:
+
+- preserve nonviable structures;
+- weaken decentralized selection;
+- transfer fragility;
+- increase concentration;
+- create future obligations;
+- reduce independent redistribution paths.
+
+The distinction is therefore functional rather than ideological.
+
+---
+
+## Fragility Compensation vs Fragility Transfer
+
+A government intervention may reduce visible fragility at one node while
+moving it elsewhere.
+
+For example:
+
+Firm Fragility
+→
+Bank Fragility
+→
+Sovereign Fragility
+→
+Monetary / Social Fragility
+
+Therefore:
+
+Fragility Compensation
+≠
+Fragility Transfer
+
+An intervention should be evaluated across the full system trajectory rather
+than only at the initially supported node.
+
+---
+
+## Function-Based Public Support
+
+Where public intervention is necessary, support should preferentially preserve
+a systemic function rather than automatically preserve the incumbent
+organization currently performing that function.
+
+The distinction is:
+
+Support the Function
+
+rather than:
+
+Preserve the Incumbent
+
+where feasible.
+
+This can preserve:
+
+- continuity;
+- infrastructure;
+- essential capabilities;
+
+while retaining:
+
+- restructuring;
+- replacement;
+- competition;
+- adaptive selection.
+
+---
+
+## Phase-Dependent Government
+
+The appropriate government role may vary with system phase.
+
+### Normal Phase
+
+Rules
++
+Diagnostics
++
+Infrastructure
++
+Enforcement
+
+### Stress Phase
+
+Temporary Compensation
++
+Cascade Prevention
+
+### Resolution Phase
+
+Restructuring
++
+Continuity Protection
+
+### Recovery Phase
+
+Exit from Exceptional Support
++
+Restoration of Decentralized Selection
+
+A working architecture is:
+
+Trigger
+→
+Intervention
+→
+State Test
+→
+Exit
+
+Permanent emergency intervention should not become the default state of the
+system.
+
+---
+
+## Regulatory Topology Mismatch
+
+Traditional political jurisdiction is primarily territorial.
+
+Economic systems increasingly operate through:
+
+- financial networks;
+- digital platforms;
+- payment systems;
+- supply chains;
+- transnational infrastructure;
+- cross-border ecosystems.
+
+Therefore:
+
+Boundary(Government)
+≠
+Boundary(Economic System)
+
+may increasingly occur.
+
+This creates **Regulatory Topology Mismatch**.
+
+A regulator may be:
+
+too small relative to the system it attempts to govern,
+
+or:
+
+fragmented across several jurisdictions whose boundaries do not match the
+actual redistribution network.
+
+---
+
+## Boundary-Matched Governance
+
+A working hypothesis is that governance should increasingly occur at the layer
+whose boundary most closely matches the material consequences and dependencies
+of the governed function.
+
+This may produce several overlapping governance layers.
+
+### Territorial Governance
+
+Possible functions include:
+
+- physical security;
+- land;
+- local environment;
+- physical infrastructure;
+- fundamental rights;
+- public enforcement;
+- ultimate legitimate physical coercion.
+
+### Functional Governance
+
+Possible domains include:
+
+- payment infrastructure;
+- financial networks;
+- digital infrastructure;
+- energy networks;
+- transnational logistics.
+
+### Ecosystem Governance
+
+Economic ecosystems may govern internal redistribution where consequences can
+be substantially internalized inside the ecosystem.
+
+A working relation is:
+
+Governance Autonomy
+↔
+Fragility Internalization
+
+The greater the governance autonomy of an ecosystem, the greater the
+responsibility it should bear for the fragility generated inside that
+ecosystem.
+
+### Meta-Governance
+
+A higher-level layer may govern interaction among governance systems.
+
+Possible functions include:
+
+- interoperability;
+- participant rights;
+- conflict resolution;
+- portability;
+- limits on externalized fragility;
+- responsibility allocation;
+- boundaries between private and public authority.
+
+---
+
+## Governance Authority and Fragility Responsibility
+
+A working principle is:
+
+Governance Authority
+↔
+Fragility Responsibility
+
+A system that possesses authority to determine redistribution rules should not
+be able to externalize the consequences of those rules indefinitely.
+
+Similarly:
+
+Governance Autonomy
+↔
+Fragility Internalization
+
+This creates a possible boundary condition for ecosystem-level autonomy.
+
+---
+
+## Governance Competition and Effective Exitability
+
+Competition among governance systems is meaningful only when participants can
+actually leave.
+
+Formal exit rights are insufficient.
+
+Effective Exitability may depend on:
+
+- portability of assets;
+- portability of rights;
+- portability of identity;
+- portability of data;
+- portability of accumulated benefits;
+- ability to continue economic activity;
+- switching costs;
+- network dependencies.
+
+Therefore:
+
+Governance Competition
+requires
+Effective Exitability
++
+Interoperability
+
+Without these conditions, nominal governance competition may become
+governance lock-in.
+
+---
+
+## Polycentric Governance
+
+The potential transition is not:
+
+State
+→
+No State
+
+but:
+
+Territorial Monopoly of Economic Governance
+→
+Layered Polycentric Governance
+
+A provisional architectural representation is:
+
+G
+=
+G_T
++
+G_F
++
+G_E
++
+G_M
+
+where:
+
+G_T = Territorial Governance
+
+G_F = Functional Governance
+
+G_E = Ecosystem Governance
+
+G_M = Meta-Governance
+
+This notation is architectural only and is not a formal WLRT equation.
+
+The future political State may remain an indispensable:
+
+Territorial Foundation
+
++
+
+Rights Guarantor
+
++
+
+Enforcement Layer
+
++
+
+Systemic Backstop
+
++
+
+Participant in Meta-Governance
+
+while losing part of its historical monopoly over all forms of economic
+governance.
+
+---
+
+## Governance Trade-Off
+
+Boundary matching does not eliminate governance cost.
+
+More governance layers may create:
+
+Coordination Cost ↑
+
+Compliance Complexity ↑
+
+Jurisdictional Conflict ↑
+
+Extraction Layers ↑
+
+Therefore the objective is not maximum governance fragmentation.
+
+The relevant balance may be:
+
+Boundary Fit
+vs
+Coordination Cost
+
+Together with:
+
+Concentrated Authority
+vs
+Functionally Separated Authority
+
+and:
+
+Selection by Performance
+vs
+Selection by Access
+
+**Status:** HYPOTHESIS / DEVELOPING
+
 # Knowledge-Derived Capability
 
 The Transition Economy may increasingly distinguish between ownership of
